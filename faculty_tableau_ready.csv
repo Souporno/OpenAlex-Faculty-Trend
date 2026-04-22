@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 Faculty Name,Institution,Abbreviation,Year,Rank_Level,Rank_Label,Publications,OpenAlex_ID,Match_Confidence,Promoted_This_Year
 Alexandra Harris-Watson,Purdue University,Purdue,2014,,Unknown,0,A5028605828,MEDIUM,0
 Alexandra Harris-Watson,Purdue University,Purdue,2015,,Unknown,0,A5028605828,MEDIUM,0
@@ -441,3 +442,448 @@ Ze (Mia) Zhu,Texas A&M University,TAMU,2023,1.0,Assistant Professor,28,A50046142
 Ze (Mia) Zhu,Texas A&M University,TAMU,2024,1.0,Assistant Professor,36,A5004614278,HIGH,0
 Ze (Mia) Zhu,Texas A&M University,TAMU,2025,1.0,Assistant Professor,28,A5004614278,HIGH,0
 Ze (Mia) Zhu,Texas A&M University,TAMU,2026,1.0,Assistant Professor,0,A5004614278,HIGH,0
+=======
+Faculty Name,Institution,Abbreviation,Year,Rank_Level,Rank_Label,Publications,Cumul_Publications,OpenAlex_ID,Match_Confidence,University_That_Year,Previous_University,Changed_University,Promoted_This_Year
+Alexandra Harris-Watson,Purdue University,Purdue,2014,1,Asst Prof,0,0,A5028605828,MEDIUM,University of Oklahoma,,0,0
+Alexandra Harris-Watson,Purdue University,Purdue,2015,1,Asst Prof,0,0,A5028605828,MEDIUM,University of Oklahoma,,0,0
+Alexandra Harris-Watson,Purdue University,Purdue,2016,1,Asst Prof,2,2,A5028605828,MEDIUM,University of Oklahoma,,0,0
+Alexandra Harris-Watson,Purdue University,Purdue,2017,1,Asst Prof,1,3,A5028605828,MEDIUM,University of Oklahoma,,0,0
+Alexandra Harris-Watson,Purdue University,Purdue,2018,1,Asst Prof,1,4,A5028605828,MEDIUM,University of Oklahoma,,0,0
+Alexandra Harris-Watson,Purdue University,Purdue,2019,1,Asst Prof,4,8,A5028605828,MEDIUM,University of Oklahoma,,0,0
+Alexandra Harris-Watson,Purdue University,Purdue,2020,1,Asst Prof,4,12,A5028605828,MEDIUM,University of Oklahoma,,0,0
+Alexandra Harris-Watson,Purdue University,Purdue,2021,1,Asst Prof,1,13,A5028605828,MEDIUM,University of Oklahoma,,0,0
+Alexandra Harris-Watson,Purdue University,Purdue,2022,1,Asst Prof,2,15,A5028605828,MEDIUM,University of Oklahoma,,0,0
+Alexandra Harris-Watson,Purdue University,Purdue,2023,1,Asst Prof,2,17,A5028605828,MEDIUM,University of Oklahoma,,0,0
+Alexandra Harris-Watson,Purdue University,Purdue,2024,1,Asst Prof,2,19,A5028605828,MEDIUM,Purdue University,University of Oklahoma,1,0
+Alexandra Harris-Watson,Purdue University,Purdue,2025,1,Asst Prof,2,21,A5028605828,MEDIUM,Purdue University,,0,0
+Alexandra Harris-Watson,Purdue University,Purdue,2026,1,Asst Prof,1,22,A5028605828,MEDIUM,Purdue University,,0,0
+Bradley Brummel,University of Houston,UH,2014,2,Assoc Prof,0,0,A5114869124,HIGH,The University of Tulsa,,0,0
+Bradley Brummel,University of Houston,UH,2015,2,Assoc Prof,0,0,A5114869124,HIGH,The University of Tulsa,,0,0
+Bradley Brummel,University of Houston,UH,2016,2,Assoc Prof,0,0,A5114869124,HIGH,The University of Tulsa,,0,0
+Bradley Brummel,University of Houston,UH,2017,2,Assoc Prof,0,0,A5114869124,HIGH,The University of Tulsa,,0,0
+Bradley Brummel,University of Houston,UH,2018,2,Assoc Prof,0,0,A5114869124,HIGH,The University of Tulsa,,0,0
+Bradley Brummel,University of Houston,UH,2019,2,Assoc Prof,0,0,A5114869124,HIGH,The University of Tulsa,,0,0
+Bradley Brummel,University of Houston,UH,2020,2,Assoc Prof,0,0,A5114869124,HIGH,The University of Tulsa,,0,0
+Bradley Brummel,University of Houston,UH,2021,2,Assoc Prof,0,0,A5114869124,HIGH,The University of Tulsa,,0,0
+Bradley Brummel,University of Houston,UH,2022,3,Full Prof,0,0,A5114869124,HIGH,The University of Tulsa,,0,1
+Bradley Brummel,University of Houston,UH,2023,3,Full Prof,0,0,A5114869124,HIGH,University of Houston,The University of Tulsa,1,0
+Bradley Brummel,University of Houston,UH,2024,3,Full Prof,1,1,A5114869124,HIGH,University of Houston,,0,0
+Bradley Brummel,University of Houston,UH,2025,3,Full Prof,3,4,A5114869124,HIGH,University of Houston,,0,0
+Bradley Brummel,University of Houston,UH,2026,3,Full Prof,0,4,A5114869124,HIGH,University of Houston,,0,0
+Brooke N. Macnamara,Purdue University,Purdue,2014,1,Asst Prof,4,4,A5015034199,HIGH,Case Western Reserve University,,0,0
+Brooke N. Macnamara,Purdue University,Purdue,2015,1,Asst Prof,3,7,A5015034199,HIGH,Case Western Reserve University,,0,0
+Brooke N. Macnamara,Purdue University,Purdue,2016,1,Asst Prof,12,19,A5015034199,HIGH,Case Western Reserve University,,0,0
+Brooke N. Macnamara,Purdue University,Purdue,2017,1,Asst Prof,14,33,A5015034199,HIGH,Case Western Reserve University,,0,0
+Brooke N. Macnamara,Purdue University,Purdue,2018,1,Asst Prof,15,48,A5015034199,HIGH,Case Western Reserve University,,0,0
+Brooke N. Macnamara,Purdue University,Purdue,2019,2,Assoc Prof,6,54,A5015034199,HIGH,Case Western Reserve University,,0,1
+Brooke N. Macnamara,Purdue University,Purdue,2020,2,Assoc Prof,10,64,A5015034199,HIGH,Case Western Reserve University,,0,0
+Brooke N. Macnamara,Purdue University,Purdue,2021,2,Assoc Prof,4,68,A5015034199,HIGH,Case Western Reserve University,,0,0
+Brooke N. Macnamara,Purdue University,Purdue,2022,2,Assoc Prof,6,74,A5015034199,HIGH,Case Western Reserve University,,0,0
+Brooke N. Macnamara,Purdue University,Purdue,2023,2,Assoc Prof,7,81,A5015034199,HIGH,Case Western Reserve University,,0,0
+Brooke N. Macnamara,Purdue University,Purdue,2024,2,Assoc Prof,4,85,A5015034199,HIGH,Purdue University,Case Western Reserve University,1,0
+Brooke N. Macnamara,Purdue University,Purdue,2025,2,Assoc Prof,6,91,A5015034199,HIGH,Purdue University,,0,0
+Brooke N. Macnamara,Purdue University,Purdue,2026,2,Assoc Prof,1,92,A5015034199,HIGH,Purdue University,,0,0
+Chris Wiese,Georgia institute of technology ,Georgia Tech,2014,1,Asst Prof,1,1,A5077014066,LOW,Georgia institute of technology ,,0,0
+Chris Wiese,Georgia institute of technology ,Georgia Tech,2015,1,Asst Prof,3,4,A5077014066,LOW,Georgia institute of technology ,,0,0
+Chris Wiese,Georgia institute of technology ,Georgia Tech,2016,1,Asst Prof,0,4,A5077014066,LOW,Georgia institute of technology ,,0,0
+Chris Wiese,Georgia institute of technology ,Georgia Tech,2017,1,Asst Prof,3,7,A5077014066,LOW,Georgia institute of technology ,,0,0
+Chris Wiese,Georgia institute of technology ,Georgia Tech,2018,1,Asst Prof,3,10,A5077014066,LOW,Georgia institute of technology ,,0,0
+Chris Wiese,Georgia institute of technology ,Georgia Tech,2019,1,Asst Prof,3,13,A5077014066,LOW,Georgia institute of technology ,,0,0
+Chris Wiese,Georgia institute of technology ,Georgia Tech,2020,1,Asst Prof,1,14,A5077014066,LOW,Georgia institute of technology ,,0,0
+Chris Wiese,Georgia institute of technology ,Georgia Tech,2021,1,Asst Prof,2,16,A5077014066,LOW,Georgia institute of technology ,,0,0
+Chris Wiese,Georgia institute of technology ,Georgia Tech,2022,1,Asst Prof,5,21,A5077014066,LOW,Georgia institute of technology ,,0,0
+Chris Wiese,Georgia institute of technology ,Georgia Tech,2023,1,Asst Prof,6,27,A5077014066,LOW,Georgia institute of technology ,,0,0
+Chris Wiese,Georgia institute of technology ,Georgia Tech,2024,1,Asst Prof,3,30,A5077014066,LOW,Georgia institute of technology ,,0,0
+Chris Wiese,Georgia institute of technology ,Georgia Tech,2025,2,Assoc Prof,17,47,A5077014066,LOW,Georgia institute of technology ,,0,1
+Chris Wiese,Georgia institute of technology ,Georgia Tech,2026,2,Assoc Prof,0,47,A5077014066,LOW,Georgia institute of technology ,,0,0
+Christopher Nye,Michigan State University,MSU,2014,1,Asst Prof,0,0,A5046829444,HIGH,Michigan State University,,0,0
+Christopher Nye,Michigan State University,MSU,2015,1,Asst Prof,0,0,A5046829444,HIGH,Michigan State University,,0,0
+Christopher Nye,Michigan State University,MSU,2016,1,Asst Prof,0,0,A5046829444,HIGH,Michigan State University,,0,0
+Christopher Nye,Michigan State University,MSU,2017,1,Asst Prof,0,0,A5046829444,HIGH,Michigan State University,,0,0
+Christopher Nye,Michigan State University,MSU,2018,1,Asst Prof,0,0,A5046829444,HIGH,Michigan State University,,0,0
+Christopher Nye,Michigan State University,MSU,2019,2,Assoc Prof,0,0,A5046829444,HIGH,Michigan State University,,0,1
+Christopher Nye,Michigan State University,MSU,2020,2,Assoc Prof,0,0,A5046829444,HIGH,Michigan State University,,0,0
+Christopher Nye,Michigan State University,MSU,2021,2,Assoc Prof,0,0,A5046829444,HIGH,Michigan State University,,0,0
+Christopher Nye,Michigan State University,MSU,2022,2,Assoc Prof,0,0,A5046829444,HIGH,Michigan State University,,0,0
+Christopher Nye,Michigan State University,MSU,2023,2,Assoc Prof,0,0,A5046829444,HIGH,Michigan State University,,0,0
+Christopher Nye,Michigan State University,MSU,2024,2,Assoc Prof,0,0,A5046829444,HIGH,Michigan State University,,0,0
+Christopher Nye,Michigan State University,MSU,2025,2,Assoc Prof,0,0,A5046829444,HIGH,Michigan State University,,0,0
+Christopher Nye,Michigan State University,MSU,2026,2,Assoc Prof,0,0,A5046829444,HIGH,Michigan State University,,0,0
+Chu-Hsiang (Daisy) Chang,Michigan State University,MSU,2014,2,Assoc Prof,3,3,A5005109926,MEDIUM,Michigan State University,,0,0
+Chu-Hsiang (Daisy) Chang,Michigan State University,MSU,2015,2,Assoc Prof,9,12,A5005109926,MEDIUM,Michigan State University,,0,0
+Chu-Hsiang (Daisy) Chang,Michigan State University,MSU,2016,2,Assoc Prof,4,16,A5005109926,MEDIUM,Michigan State University,,0,0
+Chu-Hsiang (Daisy) Chang,Michigan State University,MSU,2017,2,Assoc Prof,13,29,A5005109926,MEDIUM,Michigan State University,,0,0
+Chu-Hsiang (Daisy) Chang,Michigan State University,MSU,2018,2,Assoc Prof,9,38,A5005109926,MEDIUM,Michigan State University,,0,0
+Chu-Hsiang (Daisy) Chang,Michigan State University,MSU,2019,2,Assoc Prof,6,44,A5005109926,MEDIUM,Michigan State University,,0,0
+Chu-Hsiang (Daisy) Chang,Michigan State University,MSU,2020,3,Full Prof,6,50,A5005109926,MEDIUM,Michigan State University,,0,1
+Chu-Hsiang (Daisy) Chang,Michigan State University,MSU,2021,3,Full Prof,8,58,A5005109926,MEDIUM,Michigan State University,,0,0
+Chu-Hsiang (Daisy) Chang,Michigan State University,MSU,2022,3,Full Prof,8,66,A5005109926,MEDIUM,Michigan State University,,0,0
+Chu-Hsiang (Daisy) Chang,Michigan State University,MSU,2023,3,Full Prof,8,74,A5005109926,MEDIUM,Michigan State University,,0,0
+Chu-Hsiang (Daisy) Chang,Michigan State University,MSU,2024,3,Full Prof,5,79,A5005109926,MEDIUM,Michigan State University,,0,0
+Chu-Hsiang (Daisy) Chang,Michigan State University,MSU,2025,3,Full Prof,6,85,A5005109926,MEDIUM,Michigan State University,,0,0
+Chu-Hsiang (Daisy) Chang,Michigan State University,MSU,2026,3,Full Prof,0,85,A5005109926,MEDIUM,Michigan State University,,0,0
+Claire E. Smith ,University of South Florida,USF,2014,1,Asst Prof,0,0,A5017906889,HIGH,University of South Florida,,0,0
+Claire E. Smith ,University of South Florida,USF,2015,1,Asst Prof,0,0,A5017906889,HIGH,University of South Florida,,0,0
+Claire E. Smith ,University of South Florida,USF,2016,1,Asst Prof,1,1,A5017906889,HIGH,University of South Florida,,0,0
+Claire E. Smith ,University of South Florida,USF,2017,1,Asst Prof,1,2,A5017906889,HIGH,University of South Florida,,0,0
+Claire E. Smith ,University of South Florida,USF,2018,1,Asst Prof,1,3,A5017906889,HIGH,University of South Florida,,0,0
+Claire E. Smith ,University of South Florida,USF,2019,1,Asst Prof,2,5,A5017906889,HIGH,University of South Florida,,0,0
+Claire E. Smith ,University of South Florida,USF,2020,1,Asst Prof,2,7,A5017906889,HIGH,University of South Florida,,0,0
+Claire E. Smith ,University of South Florida,USF,2021,1,Asst Prof,6,13,A5017906889,HIGH,University of South Florida,,0,0
+Claire E. Smith ,University of South Florida,USF,2022,1,Asst Prof,6,19,A5017906889,HIGH,University of South Florida,,0,0
+Claire E. Smith ,University of South Florida,USF,2023,1,Asst Prof,6,25,A5017906889,HIGH,University of South Florida,,0,0
+Claire E. Smith ,University of South Florida,USF,2024,1,Asst Prof,7,32,A5017906889,HIGH,University of South Florida,,0,0
+Claire E. Smith ,University of South Florida,USF,2025,1,Asst Prof,5,37,A5017906889,HIGH,University of South Florida,,0,0
+Claire E. Smith ,University of South Florida,USF,2026,1,Asst Prof,0,37,A5017906889,HIGH,University of South Florida,,0,0
+Daniel Griffin,University of South Florida,USF,2014,1,Asst Prof,4,4,A5005937621,HIGH,University of South Florida,,0,0
+Daniel Griffin,University of South Florida,USF,2015,1,Asst Prof,5,9,A5005937621,HIGH,University of South Florida,,0,0
+Daniel Griffin,University of South Florida,USF,2016,1,Asst Prof,5,14,A5005937621,HIGH,University of South Florida,,0,0
+Daniel Griffin,University of South Florida,USF,2017,1,Asst Prof,4,18,A5005937621,HIGH,University of South Florida,,0,0
+Daniel Griffin,University of South Florida,USF,2018,1,Asst Prof,7,25,A5005937621,HIGH,University of South Florida,,0,0
+Daniel Griffin,University of South Florida,USF,2019,1,Asst Prof,5,30,A5005937621,HIGH,University of South Florida,,0,0
+Daniel Griffin,University of South Florida,USF,2020,1,Asst Prof,5,35,A5005937621,HIGH,University of South Florida,,0,0
+Daniel Griffin,University of South Florida,USF,2021,1,Asst Prof,4,39,A5005937621,HIGH,University of South Florida,,0,0
+Daniel Griffin,University of South Florida,USF,2022,1,Asst Prof,6,45,A5005937621,HIGH,University of South Florida,,0,0
+Daniel Griffin,University of South Florida,USF,2023,1,Asst Prof,1,46,A5005937621,HIGH,University of South Florida,,0,0
+Daniel Griffin,University of South Florida,USF,2024,1,Asst Prof,1,47,A5005937621,HIGH,University of South Florida,,0,0
+Daniel Griffin,University of South Florida,USF,2025,1,Asst Prof,1,48,A5005937621,HIGH,University of South Florida,,0,0
+Daniel Griffin,University of South Florida,USF,2026,1,Asst Prof,0,48,A5005937621,HIGH,University of South Florida,,0,0
+Daphne Xin Hou,University of South Florida,USF,2014,1,Asst Prof,0,0,A5113206554,HIGH,University of South Florida,,0,0
+Daphne Xin Hou,University of South Florida,USF,2015,1,Asst Prof,0,0,A5113206554,HIGH,University of South Florida,,0,0
+Daphne Xin Hou,University of South Florida,USF,2016,1,Asst Prof,0,0,A5113206554,HIGH,University of South Florida,,0,0
+Daphne Xin Hou,University of South Florida,USF,2017,1,Asst Prof,0,0,A5113206554,HIGH,University of South Florida,,0,0
+Daphne Xin Hou,University of South Florida,USF,2018,1,Asst Prof,0,0,A5113206554,HIGH,University of South Florida,,0,0
+Daphne Xin Hou,University of South Florida,USF,2019,1,Asst Prof,0,0,A5113206554,HIGH,University of South Florida,,0,0
+Daphne Xin Hou,University of South Florida,USF,2020,1,Asst Prof,0,0,A5113206554,HIGH,University of South Florida,,0,0
+Daphne Xin Hou,University of South Florida,USF,2021,1,Asst Prof,0,0,A5113206554,HIGH,University of South Florida,,0,0
+Daphne Xin Hou,University of South Florida,USF,2022,1,Asst Prof,0,0,A5113206554,HIGH,University of South Florida,,0,0
+Daphne Xin Hou,University of South Florida,USF,2023,1,Asst Prof,1,1,A5113206554,HIGH,University of South Florida,,0,0
+Daphne Xin Hou,University of South Florida,USF,2024,1,Asst Prof,4,5,A5113206554,HIGH,University of South Florida,,0,0
+Daphne Xin Hou,University of South Florida,USF,2025,1,Asst Prof,1,6,A5113206554,HIGH,University of South Florida,,0,0
+Daphne Xin Hou,University of South Florida,USF,2026,1,Asst Prof,0,6,A5113206554,HIGH,University of South Florida,,0,0
+Denise Reyes,University of Houston,UH,2014,1,Asst Prof,1,1,A5078883317,HIGH,University of Houston,,0,0
+Denise Reyes,University of Houston,UH,2015,1,Asst Prof,2,3,A5078883317,HIGH,University of Houston,,0,0
+Denise Reyes,University of Houston,UH,2016,1,Asst Prof,1,4,A5078883317,HIGH,University of Houston,,0,0
+Denise Reyes,University of Houston,UH,2017,1,Asst Prof,7,11,A5078883317,HIGH,University of Houston,,0,0
+Denise Reyes,University of Houston,UH,2018,1,Asst Prof,8,19,A5078883317,HIGH,University of Houston,,0,0
+Denise Reyes,University of Houston,UH,2019,1,Asst Prof,5,24,A5078883317,HIGH,University of Houston,,0,0
+Denise Reyes,University of Houston,UH,2020,1,Asst Prof,3,27,A5078883317,HIGH,University of Houston,,0,0
+Denise Reyes,University of Houston,UH,2021,1,Asst Prof,7,34,A5078883317,HIGH,University of Houston,,0,0
+Denise Reyes,University of Houston,UH,2022,1,Asst Prof,2,36,A5078883317,HIGH,University of Houston,,0,0
+Denise Reyes,University of Houston,UH,2023,1,Asst Prof,3,39,A5078883317,HIGH,University of Houston,,0,0
+Denise Reyes,University of Houston,UH,2024,1,Asst Prof,5,44,A5078883317,HIGH,University of Houston,,0,0
+Denise Reyes,University of Houston,UH,2025,1,Asst Prof,8,52,A5078883317,HIGH,University of Houston,,0,0
+Denise Reyes,University of Houston,UH,2026,1,Asst Prof,0,52,A5078883317,HIGH,University of Houston,,0,0
+Elisabeth Silver,Michigan State University,MSU,2014,1,Asst Prof,1,1,A5076722250,MEDIUM,Michigan State University,,0,0
+Elisabeth Silver,Michigan State University,MSU,2015,1,Asst Prof,0,1,A5076722250,MEDIUM,Michigan State University,,0,0
+Elisabeth Silver,Michigan State University,MSU,2016,1,Asst Prof,0,1,A5076722250,MEDIUM,Michigan State University,,0,0
+Elisabeth Silver,Michigan State University,MSU,2017,1,Asst Prof,1,2,A5076722250,MEDIUM,Michigan State University,,0,0
+Elisabeth Silver,Michigan State University,MSU,2018,1,Asst Prof,2,4,A5076722250,MEDIUM,Michigan State University,,0,0
+Elisabeth Silver,Michigan State University,MSU,2019,1,Asst Prof,6,10,A5076722250,MEDIUM,Michigan State University,,0,0
+Elisabeth Silver,Michigan State University,MSU,2020,1,Asst Prof,9,19,A5076722250,MEDIUM,Michigan State University,,0,0
+Elisabeth Silver,Michigan State University,MSU,2021,1,Asst Prof,6,25,A5076722250,MEDIUM,Michigan State University,,0,0
+Elisabeth Silver,Michigan State University,MSU,2022,1,Asst Prof,3,28,A5076722250,MEDIUM,Michigan State University,,0,0
+Elisabeth Silver,Michigan State University,MSU,2023,1,Asst Prof,3,31,A5076722250,MEDIUM,Michigan State University,,0,0
+Elisabeth Silver,Michigan State University,MSU,2024,1,Asst Prof,7,38,A5076722250,MEDIUM,Michigan State University,,0,0
+Elisabeth Silver,Michigan State University,MSU,2025,1,Asst Prof,4,42,A5076722250,MEDIUM,Michigan State University,,0,0
+Elisabeth Silver,Michigan State University,MSU,2026,1,Asst Prof,1,43,A5076722250,MEDIUM,Michigan State University,,0,0
+Franki Y. H. Kung,Purdue University,Purdue,2014,2,Assoc Prof,1,1,A5064558325,HIGH,Purdue University,,0,0
+Franki Y. H. Kung,Purdue University,Purdue,2015,2,Assoc Prof,3,4,A5064558325,HIGH,Purdue University,,0,0
+Franki Y. H. Kung,Purdue University,Purdue,2016,2,Assoc Prof,4,8,A5064558325,HIGH,Purdue University,,0,0
+Franki Y. H. Kung,Purdue University,Purdue,2017,2,Assoc Prof,6,14,A5064558325,HIGH,Purdue University,,0,0
+Franki Y. H. Kung,Purdue University,Purdue,2018,1,Asst Prof,8,22,A5064558325,HIGH,Purdue University,,0,0
+Franki Y. H. Kung,Purdue University,Purdue,2019,1,Asst Prof,9,31,A5064558325,HIGH,Purdue University,,0,0
+Franki Y. H. Kung,Purdue University,Purdue,2020,1,Asst Prof,3,34,A5064558325,HIGH,Purdue University,,0,0
+Franki Y. H. Kung,Purdue University,Purdue,2021,1,Asst Prof,8,42,A5064558325,HIGH,Purdue University,,0,0
+Franki Y. H. Kung,Purdue University,Purdue,2022,1,Asst Prof,5,47,A5064558325,HIGH,Purdue University,,0,0
+Franki Y. H. Kung,Purdue University,Purdue,2023,1,Asst Prof,5,52,A5064558325,HIGH,Purdue University,,0,0
+Franki Y. H. Kung,Purdue University,Purdue,2024,2,Assoc Prof,7,59,A5064558325,HIGH,Purdue University,,0,1
+Franki Y. H. Kung,Purdue University,Purdue,2025,2,Assoc Prof,7,66,A5064558325,HIGH,Purdue University,,0,0
+Franki Y. H. Kung,Purdue University,Purdue,2026,2,Assoc Prof,0,66,A5064558325,HIGH,Purdue University,,0,0
+Georgia T. Chao,University of South Florida,USF,2014,3,Full Prof,1,1,A5041650600,HIGH,Michigan State University,,0,0
+Georgia T. Chao,University of South Florida,USF,2015,3,Full Prof,1,2,A5041650600,HIGH,Michigan State University,,0,0
+Georgia T. Chao,University of South Florida,USF,2016,3,Full Prof,3,5,A5041650600,HIGH,Michigan State University,,0,0
+Georgia T. Chao,University of South Florida,USF,2017,3,Full Prof,4,9,A5041650600,HIGH,Michigan State University,,0,0
+Georgia T. Chao,University of South Florida,USF,2018,3,Full Prof,1,10,A5041650600,HIGH,Michigan State University,,0,0
+Georgia T. Chao,University of South Florida,USF,2019,3,Full Prof,4,14,A5041650600,HIGH,Michigan State University,,0,0
+Georgia T. Chao,University of South Florida,USF,2020,3,Full Prof,0,14,A5041650600,HIGH,University of South Florida,Michigan State University,1,0
+Georgia T. Chao,University of South Florida,USF,2021,3,Full Prof,2,16,A5041650600,HIGH,University of South Florida,,0,0
+Georgia T. Chao,University of South Florida,USF,2022,3,Full Prof,2,18,A5041650600,HIGH,University of South Florida,,0,0
+Georgia T. Chao,University of South Florida,USF,2023,3,Full Prof,0,18,A5041650600,HIGH,University of South Florida,,0,0
+Georgia T. Chao,University of South Florida,USF,2024,3,Full Prof,3,21,A5041650600,HIGH,University of South Florida,,0,0
+Georgia T. Chao,University of South Florida,USF,2025,3,Full Prof,0,21,A5041650600,HIGH,University of South Florida,,0,0
+Georgia T. Chao,University of South Florida,USF,2026,3,Full Prof,0,21,A5041650600,HIGH,University of South Florida,,0,0
+Ian Hughes,Texas A&M University,TAMU,2014,1,Asst Prof,4,4,A5035788226,HIGH,North Carolina State University,,0,0
+Ian Hughes,Texas A&M University,TAMU,2015,1,Asst Prof,27,31,A5035788226,HIGH,North Carolina State University,,0,0
+Ian Hughes,Texas A&M University,TAMU,2016,1,Asst Prof,19,50,A5035788226,HIGH,North Carolina State University,,0,0
+Ian Hughes,Texas A&M University,TAMU,2017,1,Asst Prof,28,78,A5035788226,HIGH,North Carolina State University,,0,0
+Ian Hughes,Texas A&M University,TAMU,2018,1,Asst Prof,18,96,A5035788226,HIGH,North Carolina State University,,0,0
+Ian Hughes,Texas A&M University,TAMU,2019,1,Asst Prof,17,113,A5035788226,HIGH,North Carolina State University,,0,0
+Ian Hughes,Texas A&M University,TAMU,2020,1,Asst Prof,11,124,A5035788226,HIGH,North Carolina State University,,0,0
+Ian Hughes,Texas A&M University,TAMU,2021,1,Asst Prof,15,139,A5035788226,HIGH,North Carolina State University,,0,0
+Ian Hughes,Texas A&M University,TAMU,2022,1,Asst Prof,10,149,A5035788226,HIGH,North Carolina State University,,0,0
+Ian Hughes,Texas A&M University,TAMU,2023,1,Asst Prof,16,165,A5035788226,HIGH,North Carolina State University,,0,0
+Ian Hughes,Texas A&M University,TAMU,2024,1,Asst Prof,13,178,A5035788226,HIGH,North Carolina State University,,0,0
+Ian Hughes,Texas A&M University,TAMU,2025,1,Asst Prof,11,189,A5035788226,HIGH,Texas A&M University,North Carolina State University,1,0
+Ian Hughes,Texas A&M University,TAMU,2026,1,Asst Prof,5,194,A5035788226,HIGH,Texas A&M University,,0,0
+Isaac Sabat,University of Houston,UH,2014,1,Asst Prof,0,0,A5126573178,HIGH,Texas A&M University,,0,0
+Isaac Sabat,University of Houston,UH,2015,1,Asst Prof,0,0,A5126573178,HIGH,Texas A&M University,,0,0
+Isaac Sabat,University of Houston,UH,2016,1,Asst Prof,0,0,A5126573178,HIGH,Texas A&M University,,0,0
+Isaac Sabat,University of Houston,UH,2017,1,Asst Prof,0,0,A5126573178,HIGH,Texas A&M University,,0,0
+Isaac Sabat,University of Houston,UH,2018,1,Asst Prof,0,0,A5126573178,HIGH,Texas A&M University,,0,0
+Isaac Sabat,University of Houston,UH,2019,1,Asst Prof,0,0,A5126573178,HIGH,Texas A&M University,,0,0
+Isaac Sabat,University of Houston,UH,2020,1,Asst Prof,1,1,A5126573178,HIGH,Texas A&M University,,0,0
+Isaac Sabat,University of Houston,UH,2021,1,Asst Prof,0,1,A5126573178,HIGH,Texas A&M University,,0,0
+Isaac Sabat,University of Houston,UH,2022,1,Asst Prof,0,1,A5126573178,HIGH,Texas A&M University,,0,0
+Isaac Sabat,University of Houston,UH,2023,2,Assoc Prof,0,1,A5126573178,HIGH,University of Houston,Texas A&M University,1,1
+Isaac Sabat,University of Houston,UH,2024,2,Assoc Prof,0,1,A5126573178,HIGH,University of Houston,,0,0
+Isaac Sabat,University of Houston,UH,2025,2,Assoc Prof,0,1,A5126573178,HIGH,University of Houston,,0,0
+Isaac Sabat,University of Houston,UH,2026,2,Assoc Prof,0,1,A5126573178,HIGH,University of Houston,,0,0
+Kaylee Litson,University of Houston,UH,2014,1,Asst Prof,5,5,A5068974480,HIGH,University of Houston,,0,0
+Kaylee Litson,University of Houston,UH,2015,1,Asst Prof,2,7,A5068974480,HIGH,University of Houston,,0,0
+Kaylee Litson,University of Houston,UH,2016,1,Asst Prof,5,12,A5068974480,HIGH,University of Houston,,0,0
+Kaylee Litson,University of Houston,UH,2017,1,Asst Prof,2,14,A5068974480,HIGH,University of Houston,,0,0
+Kaylee Litson,University of Houston,UH,2018,1,Asst Prof,2,16,A5068974480,HIGH,University of Houston,,0,0
+Kaylee Litson,University of Houston,UH,2019,1,Asst Prof,6,22,A5068974480,HIGH,University of Houston,,0,0
+Kaylee Litson,University of Houston,UH,2020,1,Asst Prof,2,24,A5068974480,HIGH,University of Houston,,0,0
+Kaylee Litson,University of Houston,UH,2021,1,Asst Prof,7,31,A5068974480,HIGH,University of Houston,,0,0
+Kaylee Litson,University of Houston,UH,2022,1,Asst Prof,4,35,A5068974480,HIGH,University of Houston,,0,0
+Kaylee Litson,University of Houston,UH,2023,1,Asst Prof,6,41,A5068974480,HIGH,University of Houston,,0,0
+Kaylee Litson,University of Houston,UH,2024,1,Asst Prof,5,46,A5068974480,HIGH,University of Houston,,0,0
+Kaylee Litson,University of Houston,UH,2025,1,Asst Prof,4,50,A5068974480,HIGH,University of Houston,,0,0
+Kaylee Litson,University of Houston,UH,2026,1,Asst Prof,0,50,A5068974480,HIGH,University of Houston,,0,0
+Kevin Ford,Michigan State University,MSU,2014,3,Full Prof,9,9,A5052020619,HIGH,Michigan State University,,0,0
+Kevin Ford,Michigan State University,MSU,2015,3,Full Prof,3,12,A5052020619,HIGH,Michigan State University,,0,0
+Kevin Ford,Michigan State University,MSU,2016,3,Full Prof,5,17,A5052020619,HIGH,Michigan State University,,0,0
+Kevin Ford,Michigan State University,MSU,2017,3,Full Prof,7,24,A5052020619,HIGH,Michigan State University,,0,0
+Kevin Ford,Michigan State University,MSU,2018,3,Full Prof,1,25,A5052020619,HIGH,Michigan State University,,0,0
+Kevin Ford,Michigan State University,MSU,2019,3,Full Prof,6,31,A5052020619,HIGH,Michigan State University,,0,0
+Kevin Ford,Michigan State University,MSU,2020,3,Full Prof,11,42,A5052020619,HIGH,Michigan State University,,0,0
+Kevin Ford,Michigan State University,MSU,2021,3,Full Prof,1,43,A5052020619,HIGH,Michigan State University,,0,0
+Kevin Ford,Michigan State University,MSU,2022,3,Full Prof,3,46,A5052020619,HIGH,Michigan State University,,0,0
+Kevin Ford,Michigan State University,MSU,2023,3,Full Prof,2,48,A5052020619,HIGH,Michigan State University,,0,0
+Kevin Ford,Michigan State University,MSU,2024,3,Full Prof,1,49,A5052020619,HIGH,Michigan State University,,0,0
+Kevin Ford,Michigan State University,MSU,2025,3,Full Prof,1,50,A5052020619,HIGH,Michigan State University,,0,0
+Kevin Ford,Michigan State University,MSU,2026,3,Full Prof,0,50,A5052020619,HIGH,Michigan State University,,0,0
+Kevin Hoff,Michigan State University,MSU,2014,1,Asst Prof,0,0,A5130145970,HIGH,University of Houston,,0,0
+Kevin Hoff,Michigan State University,MSU,2015,1,Asst Prof,0,0,A5130145970,HIGH,University of Houston,,0,0
+Kevin Hoff,Michigan State University,MSU,2016,1,Asst Prof,0,0,A5130145970,HIGH,University of Houston,,0,0
+Kevin Hoff,Michigan State University,MSU,2017,1,Asst Prof,0,0,A5130145970,HIGH,University of Houston,,0,0
+Kevin Hoff,Michigan State University,MSU,2018,1,Asst Prof,0,0,A5130145970,HIGH,University of Houston,,0,0
+Kevin Hoff,Michigan State University,MSU,2019,1,Asst Prof,0,0,A5130145970,HIGH,University of Houston,,0,0
+Kevin Hoff,Michigan State University,MSU,2020,1,Asst Prof,0,0,A5130145970,HIGH,University of Houston,,0,0
+Kevin Hoff,Michigan State University,MSU,2021,1,Asst Prof,0,0,A5130145970,HIGH,University of Houston,,0,0
+Kevin Hoff,Michigan State University,MSU,2022,1,Asst Prof,0,0,A5130145970,HIGH,Michigan State University,University of Houston,1,0
+Kevin Hoff,Michigan State University,MSU,2023,1,Asst Prof,0,0,A5130145970,HIGH,Michigan State University,,0,0
+Kevin Hoff,Michigan State University,MSU,2024,1,Asst Prof,0,0,A5130145970,HIGH,Michigan State University,,0,0
+Kevin Hoff,Michigan State University,MSU,2025,1,Asst Prof,0,0,A5130145970,HIGH,Michigan State University,,0,0
+Kevin Hoff,Michigan State University,MSU,2026,1,Asst Prof,1,1,A5130145970,HIGH,Michigan State University,,0,0
+Louis Tay,Purdue University,Purdue,2014,1,Asst Prof,12,12,A5050636888,HIGH,Purdue University,,0,0
+Louis Tay,Purdue University,Purdue,2015,1,Asst Prof,9,21,A5050636888,HIGH,Purdue University,,0,0
+Louis Tay,Purdue University,Purdue,2016,1,Asst Prof,12,33,A5050636888,HIGH,Purdue University,,0,0
+Louis Tay,Purdue University,Purdue,2017,1,Asst Prof,21,54,A5050636888,HIGH,Purdue University,,0,0
+Louis Tay,Purdue University,Purdue,2018,2,Assoc Prof,22,76,A5050636888,HIGH,Purdue University,,0,1
+Louis Tay,Purdue University,Purdue,2019,2,Assoc Prof,19,95,A5050636888,HIGH,Purdue University,,0,0
+Louis Tay,Purdue University,Purdue,2020,2,Assoc Prof,21,116,A5050636888,HIGH,Purdue University,,0,0
+Louis Tay,Purdue University,Purdue,2021,2,Assoc Prof,23,139,A5050636888,HIGH,Purdue University,,0,0
+Louis Tay,Purdue University,Purdue,2022,2,Assoc Prof,19,158,A5050636888,HIGH,Purdue University,,0,0
+Louis Tay,Purdue University,Purdue,2023,3,Full Prof,26,184,A5050636888,HIGH,Purdue University,,0,1
+Louis Tay,Purdue University,Purdue,2024,3,Full Prof,21,205,A5050636888,HIGH,Purdue University,,0,0
+Louis Tay,Purdue University,Purdue,2025,3,Full Prof,17,222,A5050636888,HIGH,Purdue University,,0,0
+Louis Tay,Purdue University,Purdue,2026,3,Full Prof,0,222,A5050636888,HIGH,Purdue University,,0,0
+Michael Gillespie,University of South Florida,USF,2014,1,Asst Prof,0,0,A5052701940,HIGH,University of South Florida,,0,0
+Michael Gillespie,University of South Florida,USF,2015,1,Asst Prof,3,3,A5052701940,HIGH,University of South Florida,,0,0
+Michael Gillespie,University of South Florida,USF,2016,1,Asst Prof,5,8,A5052701940,HIGH,University of South Florida,,0,0
+Michael Gillespie,University of South Florida,USF,2017,2,Assoc Prof,3,11,A5052701940,HIGH,University of South Florida,,0,1
+Michael Gillespie,University of South Florida,USF,2018,2,Assoc Prof,2,13,A5052701940,HIGH,University of South Florida,,0,0
+Michael Gillespie,University of South Florida,USF,2019,2,Assoc Prof,0,13,A5052701940,HIGH,University of South Florida,,0,0
+Michael Gillespie,University of South Florida,USF,2020,2,Assoc Prof,1,14,A5052701940,HIGH,University of South Florida,,0,0
+Michael Gillespie,University of South Florida,USF,2021,2,Assoc Prof,2,16,A5052701940,HIGH,University of South Florida,,0,0
+Michael Gillespie,University of South Florida,USF,2022,2,Assoc Prof,0,16,A5052701940,HIGH,University of South Florida,,0,0
+Michael Gillespie,University of South Florida,USF,2023,2,Assoc Prof,0,16,A5052701940,HIGH,University of South Florida,,0,0
+Michael Gillespie,University of South Florida,USF,2024,2,Assoc Prof,3,19,A5052701940,HIGH,University of South Florida,,0,0
+Michael Gillespie,University of South Florida,USF,2025,2,Assoc Prof,1,20,A5052701940,HIGH,University of South Florida,,0,0
+Michael Gillespie,University of South Florida,USF,2026,2,Assoc Prof,0,20,A5052701940,HIGH,University of South Florida,,0,0
+Mindy Bergman,Texas A&M University,TAMU,2014,2,Assoc Prof,4,4,A5091087756,HIGH,Texas A&M University,,0,0
+Mindy Bergman,Texas A&M University,TAMU,2015,3,Full Prof,1,5,A5091087756,HIGH,Texas A&M University,,0,1
+Mindy Bergman,Texas A&M University,TAMU,2016,3,Full Prof,4,9,A5091087756,HIGH,Texas A&M University,,0,0
+Mindy Bergman,Texas A&M University,TAMU,2017,3,Full Prof,4,13,A5091087756,HIGH,Texas A&M University,,0,0
+Mindy Bergman,Texas A&M University,TAMU,2018,3,Full Prof,6,19,A5091087756,HIGH,Texas A&M University,,0,0
+Mindy Bergman,Texas A&M University,TAMU,2019,3,Full Prof,4,23,A5091087756,HIGH,Texas A&M University,,0,0
+Mindy Bergman,Texas A&M University,TAMU,2020,3,Full Prof,8,31,A5091087756,HIGH,Texas A&M University,,0,0
+Mindy Bergman,Texas A&M University,TAMU,2021,3,Full Prof,0,31,A5091087756,HIGH,Texas A&M University,,0,0
+Mindy Bergman,Texas A&M University,TAMU,2022,3,Full Prof,1,32,A5091087756,HIGH,Texas A&M University,,0,0
+Mindy Bergman,Texas A&M University,TAMU,2023,3,Full Prof,5,37,A5091087756,HIGH,Texas A&M University,,0,0
+Mindy Bergman,Texas A&M University,TAMU,2024,3,Full Prof,5,42,A5091087756,HIGH,Texas A&M University,,0,0
+Mindy Bergman,Texas A&M University,TAMU,2025,3,Full Prof,4,46,A5091087756,HIGH,Texas A&M University,,0,0
+Mindy Bergman,Texas A&M University,TAMU,2026,3,Full Prof,0,46,A5091087756,HIGH,Texas A&M University,,0,0
+Nathan T. Carter,Michigan State University,MSU,2014,1,Asst Prof,7,7,A5070485790,HIGH,University of Georgia,,0,0
+Nathan T. Carter,Michigan State University,MSU,2015,1,Asst Prof,7,14,A5070485790,HIGH,University of Georgia,,0,0
+Nathan T. Carter,Michigan State University,MSU,2016,1,Asst Prof,13,27,A5070485790,HIGH,University of Georgia,,0,0
+Nathan T. Carter,Michigan State University,MSU,2017,2,Assoc Prof,8,35,A5070485790,HIGH,University of Georgia,,0,1
+Nathan T. Carter,Michigan State University,MSU,2018,2,Assoc Prof,6,41,A5070485790,HIGH,University of Georgia,,0,0
+Nathan T. Carter,Michigan State University,MSU,2019,2,Assoc Prof,7,48,A5070485790,HIGH,University of Georgia,,0,0
+Nathan T. Carter,Michigan State University,MSU,2020,2,Assoc Prof,6,54,A5070485790,HIGH,University of Georgia,,0,0
+Nathan T. Carter,Michigan State University,MSU,2021,2,Assoc Prof,10,64,A5070485790,HIGH,University of Georgia,,0,0
+Nathan T. Carter,Michigan State University,MSU,2022,3,Full Prof,3,67,A5070485790,HIGH,Michigan State University,University of Georgia,1,1
+Nathan T. Carter,Michigan State University,MSU,2023,3,Full Prof,12,79,A5070485790,HIGH,Michigan State University,,0,0
+Nathan T. Carter,Michigan State University,MSU,2024,3,Full Prof,4,83,A5070485790,HIGH,Michigan State University,,0,0
+Nathan T. Carter,Michigan State University,MSU,2025,3,Full Prof,2,85,A5070485790,HIGH,Michigan State University,,0,0
+Nathan T. Carter,Michigan State University,MSU,2026,3,Full Prof,1,86,A5070485790,HIGH,Michigan State University,,0,0
+Paras Mehta,University of Houston,UH,2014,2,Assoc Prof,5,5,A5066286539,HIGH,University of Houston,,0,0
+Paras Mehta,University of Houston,UH,2015,2,Assoc Prof,8,13,A5066286539,HIGH,University of Houston,,0,0
+Paras Mehta,University of Houston,UH,2016,2,Assoc Prof,3,16,A5066286539,HIGH,University of Houston,,0,0
+Paras Mehta,University of Houston,UH,2017,2,Assoc Prof,8,24,A5066286539,HIGH,University of Houston,,0,0
+Paras Mehta,University of Houston,UH,2018,2,Assoc Prof,10,34,A5066286539,HIGH,University of Houston,,0,0
+Paras Mehta,University of Houston,UH,2019,2,Assoc Prof,1,35,A5066286539,HIGH,University of Houston,,0,0
+Paras Mehta,University of Houston,UH,2020,2,Assoc Prof,2,37,A5066286539,HIGH,University of Houston,,0,0
+Paras Mehta,University of Houston,UH,2021,2,Assoc Prof,3,40,A5066286539,HIGH,University of Houston,,0,0
+Paras Mehta,University of Houston,UH,2022,2,Assoc Prof,1,41,A5066286539,HIGH,University of Houston,,0,0
+Paras Mehta,University of Houston,UH,2023,2,Assoc Prof,2,43,A5066286539,HIGH,University of Houston,,0,0
+Paras Mehta,University of Houston,UH,2024,2,Assoc Prof,2,45,A5066286539,HIGH,University of Houston,,0,0
+Paras Mehta,University of Houston,UH,2025,2,Assoc Prof,4,49,A5066286539,HIGH,University of Houston,,0,0
+Paras Mehta,University of Houston,UH,2026,2,Assoc Prof,0,49,A5066286539,HIGH,University of Houston,,0,0
+Quinetta Roberson,Michigan State University,MSU,2014,3,Full Prof,1,1,A5019143783,MEDIUM,Villanova University,,0,0
+Quinetta Roberson,Michigan State University,MSU,2015,3,Full Prof,0,1,A5019143783,MEDIUM,Villanova University,,0,0
+Quinetta Roberson,Michigan State University,MSU,2016,3,Full Prof,1,2,A5019143783,MEDIUM,Villanova University,,0,0
+Quinetta Roberson,Michigan State University,MSU,2017,3,Full Prof,5,7,A5019143783,MEDIUM,Villanova University,,0,0
+Quinetta Roberson,Michigan State University,MSU,2018,3,Full Prof,2,9,A5019143783,MEDIUM,Villanova University,,0,0
+Quinetta Roberson,Michigan State University,MSU,2019,3,Full Prof,1,10,A5019143783,MEDIUM,Villanova University,,0,0
+Quinetta Roberson,Michigan State University,MSU,2020,3,Full Prof,3,13,A5019143783,MEDIUM,Michigan State University,Villanova University,1,0
+Quinetta Roberson,Michigan State University,MSU,2021,3,Full Prof,4,17,A5019143783,MEDIUM,Michigan State University,,0,0
+Quinetta Roberson,Michigan State University,MSU,2022,3,Full Prof,4,21,A5019143783,MEDIUM,Michigan State University,,0,0
+Quinetta Roberson,Michigan State University,MSU,2023,3,Full Prof,7,28,A5019143783,MEDIUM,Michigan State University,,0,0
+Quinetta Roberson,Michigan State University,MSU,2024,3,Full Prof,8,36,A5019143783,MEDIUM,Michigan State University,,0,0
+Quinetta Roberson,Michigan State University,MSU,2025,3,Full Prof,8,44,A5019143783,MEDIUM,Michigan State University,,0,0
+Quinetta Roberson,Michigan State University,MSU,2026,3,Full Prof,2,46,A5019143783,MEDIUM,Michigan State University,,0,0
+Richard D. Harvey,Saint Louis University,,2014,2,Assoc Prof,6,6,A5005545453,HIGH,Saint Louis University,,0,0
+Richard D. Harvey,Saint Louis University,,2015,2,Assoc Prof,2,8,A5005545453,HIGH,Saint Louis University,,0,0
+Richard D. Harvey,Saint Louis University,,2016,2,Assoc Prof,3,11,A5005545453,HIGH,Saint Louis University,,0,0
+Richard D. Harvey,Saint Louis University,,2017,2,Assoc Prof,5,16,A5005545453,HIGH,Saint Louis University,,0,0
+Richard D. Harvey,Saint Louis University,,2018,2,Assoc Prof,0,16,A5005545453,HIGH,Saint Louis University,,0,0
+Richard D. Harvey,Saint Louis University,,2019,2,Assoc Prof,0,16,A5005545453,HIGH,Saint Louis University,,0,0
+Richard D. Harvey,Saint Louis University,,2020,2,Assoc Prof,2,18,A5005545453,HIGH,Saint Louis University,,0,0
+Richard D. Harvey,Saint Louis University,,2021,2,Assoc Prof,0,18,A5005545453,HIGH,Saint Louis University,,0,0
+Richard D. Harvey,Saint Louis University,,2022,2,Assoc Prof,1,19,A5005545453,HIGH,Saint Louis University,,0,0
+Richard D. Harvey,Saint Louis University,,2023,2,Assoc Prof,0,19,A5005545453,HIGH,Saint Louis University,,0,0
+Richard D. Harvey,Saint Louis University,,2024,2,Assoc Prof,1,20,A5005545453,HIGH,Saint Louis University,,0,0
+Richard D. Harvey,Saint Louis University,,2025,2,Assoc Prof,3,23,A5005545453,HIGH,Saint Louis University,,0,0
+Richard D. Harvey,Saint Louis University,,2026,2,Assoc Prof,0,23,A5005545453,HIGH,Saint Louis University,,0,0
+Richard Landers,University of Minnesota,UMN,2014,1,Asst Prof,14,14,A5067752520,HIGH,Old Dominion,,0,0
+Richard Landers,University of Minnesota,UMN,2015,2,Assoc Prof,8,22,A5067752520,HIGH,Old Dominion,,0,1
+Richard Landers,University of Minnesota,UMN,2016,2,Assoc Prof,11,33,A5067752520,HIGH,University of Minnesota,Old Dominion,1,0
+Richard Landers,University of Minnesota,UMN,2017,2,Assoc Prof,11,44,A5067752520,HIGH,University of Minnesota,,0,0
+Richard Landers,University of Minnesota,UMN,2018,2,Assoc Prof,11,55,A5067752520,HIGH,University of Minnesota,,0,0
+Richard Landers,University of Minnesota,UMN,2019,2,Assoc Prof,12,67,A5067752520,HIGH,University of Minnesota,,0,0
+Richard Landers,University of Minnesota,UMN,2020,2,Assoc Prof,25,92,A5067752520,HIGH,University of Minnesota,,0,0
+Richard Landers,University of Minnesota,UMN,2021,2,Assoc Prof,7,99,A5067752520,HIGH,University of Minnesota,,0,0
+Richard Landers,University of Minnesota,UMN,2022,3,Full Prof,6,105,A5067752520,HIGH,University of Minnesota,,0,1
+Richard Landers,University of Minnesota,UMN,2023,3,Full Prof,10,115,A5067752520,HIGH,University of Minnesota,,0,0
+Richard Landers,University of Minnesota,UMN,2024,3,Full Prof,8,123,A5067752520,HIGH,University of Minnesota,,0,0
+Richard Landers,University of Minnesota,UMN,2025,3,Full Prof,11,134,A5067752520,HIGH,University of Minnesota,,0,0
+Richard Landers,University of Minnesota,UMN,2026,3,Full Prof,3,137,A5067752520,HIGH,University of Minnesota,,0,0
+Sang Eun Woo,Purdue University,Purdue,2014,1,Asst Prof,4,4,A5065878227,HIGH,Purdue University,,0,0
+Sang Eun Woo,Purdue University,Purdue,2015,1,Asst Prof,8,12,A5065878227,HIGH,Purdue University,,0,0
+Sang Eun Woo,Purdue University,Purdue,2016,2,Assoc Prof,9,21,A5065878227,HIGH,Purdue University,,0,1
+Sang Eun Woo,Purdue University,Purdue,2017,2,Assoc Prof,3,24,A5065878227,HIGH,Purdue University,,0,0
+Sang Eun Woo,Purdue University,Purdue,2018,2,Assoc Prof,5,29,A5065878227,HIGH,Purdue University,,0,0
+Sang Eun Woo,Purdue University,Purdue,2019,2,Assoc Prof,3,32,A5065878227,HIGH,Purdue University,,0,0
+Sang Eun Woo,Purdue University,Purdue,2020,2,Assoc Prof,8,40,A5065878227,HIGH,Purdue University,,0,0
+Sang Eun Woo,Purdue University,Purdue,2021,2,Assoc Prof,8,48,A5065878227,HIGH,Purdue University,,0,0
+Sang Eun Woo,Purdue University,Purdue,2022,3,Full Prof,8,56,A5065878227,HIGH,Purdue University,,0,1
+Sang Eun Woo,Purdue University,Purdue,2023,3,Full Prof,13,69,A5065878227,HIGH,Purdue University,,0,0
+Sang Eun Woo,Purdue University,Purdue,2024,3,Full Prof,13,82,A5065878227,HIGH,Purdue University,,0,0
+Sang Eun Woo,Purdue University,Purdue,2025,3,Full Prof,1,83,A5065878227,HIGH,Purdue University,,0,0
+Sang Eun Woo,Purdue University,Purdue,2026,3,Full Prof,0,83,A5065878227,HIGH,Purdue University,,0,0
+Stephanie C. Payne,Texas A&M University,TAMU,2014,3,Full Prof,9,9,A5044225322,HIGH,Texas A&M University,,0,0
+Stephanie C. Payne,Texas A&M University,TAMU,2015,3,Full Prof,3,12,A5044225322,HIGH,Texas A&M University,,0,0
+Stephanie C. Payne,Texas A&M University,TAMU,2016,3,Full Prof,4,16,A5044225322,HIGH,Texas A&M University,,0,0
+Stephanie C. Payne,Texas A&M University,TAMU,2017,3,Full Prof,7,23,A5044225322,HIGH,Texas A&M University,,0,0
+Stephanie C. Payne,Texas A&M University,TAMU,2018,3,Full Prof,6,29,A5044225322,HIGH,Texas A&M University,,0,0
+Stephanie C. Payne,Texas A&M University,TAMU,2019,3,Full Prof,7,36,A5044225322,HIGH,Texas A&M University,,0,0
+Stephanie C. Payne,Texas A&M University,TAMU,2020,3,Full Prof,5,41,A5044225322,HIGH,Texas A&M University,,0,0
+Stephanie C. Payne,Texas A&M University,TAMU,2021,3,Full Prof,2,43,A5044225322,HIGH,Texas A&M University,,0,0
+Stephanie C. Payne,Texas A&M University,TAMU,2022,3,Full Prof,5,48,A5044225322,HIGH,Texas A&M University,,0,0
+Stephanie C. Payne,Texas A&M University,TAMU,2023,3,Full Prof,7,55,A5044225322,HIGH,Texas A&M University,,0,0
+Stephanie C. Payne,Texas A&M University,TAMU,2024,3,Full Prof,5,60,A5044225322,HIGH,Texas A&M University,,0,0
+Stephanie C. Payne,Texas A&M University,TAMU,2025,3,Full Prof,10,70,A5044225322,HIGH,Texas A&M University,,0,0
+Stephanie C. Payne,Texas A&M University,TAMU,2026,3,Full Prof,1,71,A5044225322,HIGH,Texas A&M University,,0,0
+Stephen Stark,University of South Florida,USF,2014,2,Assoc Prof,6,6,A5064626188,HIGH,University of South Florida,,0,0
+Stephen Stark,University of South Florida,USF,2015,3,Full Prof,2,8,A5064626188,HIGH,University of South Florida,,0,1
+Stephen Stark,University of South Florida,USF,2016,3,Full Prof,8,16,A5064626188,HIGH,University of South Florida,,0,0
+Stephen Stark,University of South Florida,USF,2017,3,Full Prof,3,19,A5064626188,HIGH,University of South Florida,,0,0
+Stephen Stark,University of South Florida,USF,2018,3,Full Prof,6,25,A5064626188,HIGH,University of South Florida,,0,0
+Stephen Stark,University of South Florida,USF,2019,3,Full Prof,7,32,A5064626188,HIGH,University of South Florida,,0,0
+Stephen Stark,University of South Florida,USF,2020,3,Full Prof,11,43,A5064626188,HIGH,University of South Florida,,0,0
+Stephen Stark,University of South Florida,USF,2021,3,Full Prof,4,47,A5064626188,HIGH,University of South Florida,,0,0
+Stephen Stark,University of South Florida,USF,2022,3,Full Prof,3,50,A5064626188,HIGH,University of South Florida,,0,0
+Stephen Stark,University of South Florida,USF,2023,3,Full Prof,4,54,A5064626188,HIGH,University of South Florida,,0,0
+Stephen Stark,University of South Florida,USF,2024,3,Full Prof,2,56,A5064626188,HIGH,University of South Florida,,0,0
+Stephen Stark,University of South Florida,USF,2025,3,Full Prof,3,59,A5064626188,HIGH,University of South Florida,,0,0
+Stephen Stark,University of South Florida,USF,2026,3,Full Prof,1,60,A5064626188,HIGH,University of South Florida,,0,0
+Steve W. J. Kozlowski,University of South Florida,USF,2014,3,Full Prof,2,2,A5040867693,HIGH,University of South Florida,,0,0
+Steve W. J. Kozlowski,University of South Florida,USF,2015,3,Full Prof,6,8,A5040867693,HIGH,University of South Florida,,0,0
+Steve W. J. Kozlowski,University of South Florida,USF,2016,3,Full Prof,4,12,A5040867693,HIGH,University of South Florida,,0,0
+Steve W. J. Kozlowski,University of South Florida,USF,2017,3,Full Prof,9,21,A5040867693,HIGH,University of South Florida,,0,0
+Steve W. J. Kozlowski,University of South Florida,USF,2018,3,Full Prof,6,27,A5040867693,HIGH,University of South Florida,,0,0
+Steve W. J. Kozlowski,University of South Florida,USF,2019,3,Full Prof,7,34,A5040867693,HIGH,University of South Florida,,0,0
+Steve W. J. Kozlowski,University of South Florida,USF,2020,3,Full Prof,3,37,A5040867693,HIGH,University of South Florida,,0,0
+Steve W. J. Kozlowski,University of South Florida,USF,2021,3,Full Prof,7,44,A5040867693,HIGH,University of South Florida,,0,0
+Steve W. J. Kozlowski,University of South Florida,USF,2022,3,Full Prof,4,48,A5040867693,HIGH,University of South Florida,,0,0
+Steve W. J. Kozlowski,University of South Florida,USF,2023,3,Full Prof,4,52,A5040867693,HIGH,University of South Florida,,0,0
+Steve W. J. Kozlowski,University of South Florida,USF,2024,3,Full Prof,6,58,A5040867693,HIGH,University of South Florida,,0,0
+Steve W. J. Kozlowski,University of South Florida,USF,2025,3,Full Prof,0,58,A5040867693,HIGH,University of South Florida,,0,0
+Steve W. J. Kozlowski,University of South Florida,USF,2026,3,Full Prof,0,58,A5040867693,HIGH,University of South Florida,,0,0
+Tammy Allen,University of South Florida,USF,2014,3,Full Prof,6,6,A5063973341,HIGH,University of South Florida,,0,0
+Tammy Allen,University of South Florida,USF,2015,3,Full Prof,8,14,A5063973341,HIGH,University of South Florida,,0,0
+Tammy Allen,University of South Florida,USF,2016,3,Full Prof,6,20,A5063973341,HIGH,University of South Florida,,0,0
+Tammy Allen,University of South Florida,USF,2017,3,Full Prof,18,38,A5063973341,HIGH,University of South Florida,,0,0
+Tammy Allen,University of South Florida,USF,2018,3,Full Prof,15,53,A5063973341,HIGH,University of South Florida,,0,0
+Tammy Allen,University of South Florida,USF,2019,3,Full Prof,6,59,A5063973341,HIGH,University of South Florida,,0,0
+Tammy Allen,University of South Florida,USF,2020,3,Full Prof,12,71,A5063973341,HIGH,University of South Florida,,0,0
+Tammy Allen,University of South Florida,USF,2021,3,Full Prof,5,76,A5063973341,HIGH,University of South Florida,,0,0
+Tammy Allen,University of South Florida,USF,2022,3,Full Prof,12,88,A5063973341,HIGH,University of South Florida,,0,0
+Tammy Allen,University of South Florida,USF,2023,3,Full Prof,12,100,A5063973341,HIGH,University of South Florida,,0,0
+Tammy Allen,University of South Florida,USF,2024,3,Full Prof,4,104,A5063973341,HIGH,University of South Florida,,0,0
+Tammy Allen,University of South Florida,USF,2025,3,Full Prof,18,122,A5063973341,HIGH,University of South Florida,,0,0
+Tammy Allen,University of South Florida,USF,2026,3,Full Prof,0,122,A5063973341,HIGH,University of South Florida,,0,0
+"Winfred Arthur, Jr.",Texas A&M University,TAMU,2014,3,Full Prof,3,3,A5112235625,HIGH,Texas A&M University,,0,0
+"Winfred Arthur, Jr.",Texas A&M University,TAMU,2015,3,Full Prof,1,4,A5112235625,HIGH,Texas A&M University,,0,0
+"Winfred Arthur, Jr.",Texas A&M University,TAMU,2016,3,Full Prof,2,6,A5112235625,HIGH,Texas A&M University,,0,0
+"Winfred Arthur, Jr.",Texas A&M University,TAMU,2017,3,Full Prof,5,11,A5112235625,HIGH,Texas A&M University,,0,0
+"Winfred Arthur, Jr.",Texas A&M University,TAMU,2018,3,Full Prof,5,16,A5112235625,HIGH,Texas A&M University,,0,0
+"Winfred Arthur, Jr.",Texas A&M University,TAMU,2019,3,Full Prof,4,20,A5112235625,HIGH,Texas A&M University,,0,0
+"Winfred Arthur, Jr.",Texas A&M University,TAMU,2020,3,Full Prof,8,28,A5112235625,HIGH,Texas A&M University,,0,0
+"Winfred Arthur, Jr.",Texas A&M University,TAMU,2021,3,Full Prof,3,31,A5112235625,HIGH,Texas A&M University,,0,0
+"Winfred Arthur, Jr.",Texas A&M University,TAMU,2022,3,Full Prof,3,34,A5112235625,HIGH,Texas A&M University,,0,0
+"Winfred Arthur, Jr.",Texas A&M University,TAMU,2023,3,Full Prof,0,34,A5112235625,HIGH,Texas A&M University,,0,0
+"Winfred Arthur, Jr.",Texas A&M University,TAMU,2024,3,Full Prof,4,38,A5112235625,HIGH,Texas A&M University,,0,0
+"Winfred Arthur, Jr.",Texas A&M University,TAMU,2025,3,Full Prof,5,43,A5112235625,HIGH,Texas A&M University,,0,0
+"Winfred Arthur, Jr.",Texas A&M University,TAMU,2026,3,Full Prof,0,43,A5112235625,HIGH,Texas A&M University,,0,0
+Xiaowen Chen,Saint Louis University,,2014,1,Asst Prof,3,3,A5100616863,HIGH,Western Kentucky University,,0,0
+Xiaowen Chen,Saint Louis University,,2015,1,Asst Prof,5,8,A5100616863,HIGH,Western Kentucky University,,0,0
+Xiaowen Chen,Saint Louis University,,2016,1,Asst Prof,7,15,A5100616863,HIGH,Western Kentucky University,,0,0
+Xiaowen Chen,Saint Louis University,,2017,1,Asst Prof,4,19,A5100616863,HIGH,Western Kentucky University,,0,0
+Xiaowen Chen,Saint Louis University,,2018,1,Asst Prof,8,27,A5100616863,HIGH,Western Kentucky University,,0,0
+Xiaowen Chen,Saint Louis University,,2019,1,Asst Prof,7,34,A5100616863,HIGH,Western Kentucky University,,0,0
+Xiaowen Chen,Saint Louis University,,2020,1,Asst Prof,11,45,A5100616863,HIGH,Western Kentucky University,,0,0
+Xiaowen Chen,Saint Louis University,,2021,1,Asst Prof,12,57,A5100616863,HIGH,Western Kentucky University,,0,0
+Xiaowen Chen,Saint Louis University,,2022,1,Asst Prof,14,71,A5100616863,HIGH,Western Kentucky University,,0,0
+Xiaowen Chen,Saint Louis University,,2023,1,Asst Prof,15,86,A5100616863,HIGH,Western Kentucky University,,0,0
+Xiaowen Chen,Saint Louis University,,2024,1,Asst Prof,9,95,A5100616863,HIGH,Saint Louis University,Western Kentucky University,1,0
+Xiaowen Chen,Saint Louis University,,2025,1,Asst Prof,7,102,A5100616863,HIGH,Saint Louis University,,0,0
+Xiaowen Chen,Saint Louis University,,2026,1,Asst Prof,1,103,A5100616863,HIGH,Saint Louis University,,0,0
+Ze (Mia) Zhu,Texas A&M University,TAMU,2014,1,Asst Prof,12,12,A5084303359,HIGH,University of Nebraska Omaha,,0,0
+Ze (Mia) Zhu,Texas A&M University,TAMU,2015,1,Asst Prof,11,23,A5084303359,HIGH,University of Nebraska Omaha,,0,0
+Ze (Mia) Zhu,Texas A&M University,TAMU,2016,1,Asst Prof,17,40,A5084303359,HIGH,University of Nebraska Omaha,,0,0
+Ze (Mia) Zhu,Texas A&M University,TAMU,2017,1,Asst Prof,20,60,A5084303359,HIGH,University of Nebraska Omaha,,0,0
+Ze (Mia) Zhu,Texas A&M University,TAMU,2018,1,Asst Prof,14,74,A5084303359,HIGH,University of Nebraska Omaha,,0,0
+Ze (Mia) Zhu,Texas A&M University,TAMU,2019,1,Asst Prof,19,93,A5084303359,HIGH,University of Nebraska Omaha,,0,0
+Ze (Mia) Zhu,Texas A&M University,TAMU,2020,1,Asst Prof,18,111,A5084303359,HIGH,University of Nebraska Omaha,,0,0
+Ze (Mia) Zhu,Texas A&M University,TAMU,2021,1,Asst Prof,36,147,A5084303359,HIGH,University of Nebraska Omaha,,0,0
+Ze (Mia) Zhu,Texas A&M University,TAMU,2022,1,Asst Prof,25,172,A5084303359,HIGH,University of Nebraska Omaha,,0,0
+Ze (Mia) Zhu,Texas A&M University,TAMU,2023,1,Asst Prof,28,200,A5084303359,HIGH,University of Nebraska Omaha,,0,0
+Ze (Mia) Zhu,Texas A&M University,TAMU,2024,1,Asst Prof,36,236,A5084303359,HIGH,Texas A&M University,University of Nebraska Omaha,1,0
+Ze (Mia) Zhu,Texas A&M University,TAMU,2025,1,Asst Prof,28,264,A5084303359,HIGH,Texas A&M University,,0,0
+Ze (Mia) Zhu,Texas A&M University,TAMU,2026,1,Asst Prof,0,264,A5084303359,HIGH,Texas A&M University,,0,0
+>>>>>>> Stashed changes
