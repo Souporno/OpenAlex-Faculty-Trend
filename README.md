@@ -96,7 +96,7 @@ The final interactive dashboard was built in **Tableau Public** using `faculty_t
 
 **Research question being explored:** Does a faculty member's publication output increase in the years leading up to a promotion? The visualization allows direct comparison of publication trajectories across individuals and institutions.
 
-→ **[View the live dashboard on Tableau Public](https://public.tableau.com/views/Book1_17761599715700/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+→ **[View the live dashboard on Tableau Public](https://public.tableau.com/views/FacultyPublicationTrend/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
