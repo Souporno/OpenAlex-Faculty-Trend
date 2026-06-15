@@ -1,0 +1,11 @@
+# Raw datasets — never commit
+lcga_data_long.csv
+openalex_pub_counts.xlsx
+*.xlsx
+~$*.xlsx
+
+# macOS
+.DS_Store
+
+# Sensitivity check outputs (added in next push)
+# H7 outputs (added in next push)

@@ -1,0 +1,127 @@
+=============================================================
+LCGA Model Summary — 10 Classes, linear growth
+=============================================================
+
+Fit comparison across all solutions:
+ n_classes   log_lik      AIC      BIC entropy ave_pp n_params
+         1 -2998.183 6002.365 6010.574      NA     NA       NA
+         2 -2518.627 5049.254 5065.671  0.9357 0.9743       NA
+         3 -2359.122 4736.244 4760.869  0.9337 0.9793       NA
+         4 -2233.205 4490.410 4523.244  0.8881 0.9370       NA
+         5 -2134.307 4298.614 4339.657  0.9232 0.9161       NA
+         6 -2058.878 4153.756 4203.008  0.9200 0.9423       NA
+         7 -2047.528 4137.057 4194.517  0.8832 0.9067       NA
+         8 -2036.972 4121.943 4187.612  0.8584 0.8849       NA
+         9 -2028.476 4110.952 4184.829  0.8594 0.8717       NA
+        10 -2021.253 4102.506 4184.592  0.8252 0.8563       NA
+        11 -2018.201 4102.402 4192.697  0.7761 0.8248       NA
+
+
+Best model coefficients:
+Heterogenous linear mixed model 
+     fitted by maximum likelihood method 
+ 
+hlme(fixed = FIXED_FORMULA, mixture = MIXTURE_FORMULA, subject = "faculty_id", 
+    ng = k, data = df, verbose = FALSE)
+ 
+Statistical Model: 
+     Dataset: df 
+     Number of subjects: 114 
+     Number of observations: 1774 
+     Number of latent classes: 10 
+     Number of parameters: 30  
+ 
+Iteration process: 
+     Convergence criteria satisfied 
+     Number of iterations:  4 
+     Convergence criteria: parameters= 7.6e-07 
+                         : likelihood= 4.1e-07 
+                         : second derivatives= 1.5e-12 
+ 
+Goodness-of-fit statistics: 
+     maximum log-likelihood: -2021.25  
+     AIC: 4102.51  
+     BIC: 4184.59  
+ 
+ 
+Maximum Likelihood Estimates: 
+ 
+Fixed effects in the class-membership model:
+(the class of reference is the last class) 
+
+                     coef      Se   Wald p-value
+intercept class1 -0.92730 0.57115 -1.624 0.10447
+intercept class2 -1.42487 0.56144 -2.538 0.01115
+intercept class3 -2.29808 0.90994 -2.526 0.01155
+intercept class4  0.78324 0.31707  2.470 0.01350
+intercept class5 -0.79670 0.58608 -1.359 0.17403
+intercept class6 -0.53767 0.46502 -1.156 0.24758
+intercept class7 -1.70403 0.65674 -2.595 0.00947
+intercept class8 -2.04124 0.76370 -2.673 0.00752
+intercept class9 -0.57887 0.54398 -1.064 0.28727
+
+Fixed effects in the longitudinal model:
+
+                        coef      Se   Wald p-value
+intercept class1     1.43969 0.15931  9.037 0.00000
+intercept class2     4.11529 0.17909 22.979 0.00000
+intercept class3    -0.89387 0.27137 -3.294 0.00099
+intercept class4     2.14103 0.05233 40.915 0.00000
+intercept class5     0.26436 0.14690  1.800 0.07192
+intercept class6     0.98838 0.10187  9.702 0.00000
+intercept class7     3.11087 0.21594 14.407 0.00000
+intercept class8    -0.36876 0.15980 -2.308 0.02102
+intercept class9     1.88458 0.14180 13.291 0.00000
+intercept class10    0.06476 0.07096  0.913 0.36143
+career_year class1  -0.00906 0.00982 -0.923 0.35608
+career_year class2  -0.02321 0.01574 -1.474 0.14038
+career_year class3   0.42168 0.02053 20.537 0.00000
+career_year class4   0.01890 0.00348  5.439 0.00000
+career_year class5   0.02001 0.00794  2.519 0.01176
+career_year class6   0.03962 0.00473  8.385 0.00000
+career_year class7   0.00145 0.01669  0.087 0.93100
+career_year class8   0.13158 0.00714 18.429 0.00000
+career_year class9  -0.00490 0.00949 -0.516 0.60595
+career_year class10  0.00233 0.00517  0.450 0.65245
+
+                             coef      Se
+Residual standard error:  0.68672 0.01176
+
+                        coef      Se   Wald p-value
+intercept class1     1.43969 0.15931  9.037 0.00000
+intercept class2     4.11529 0.17909 22.979 0.00000
+intercept class3    -0.89387 0.27137 -3.294 0.00099
+intercept class4     2.14103 0.05233 40.915 0.00000
+intercept class5     0.26436 0.14690  1.800 0.07192
+intercept class6     0.98838 0.10187  9.702 0.00000
+intercept class7     3.11087 0.21594 14.407 0.00000
+intercept class8    -0.36876 0.15980 -2.308 0.02102
+intercept class9     1.88458 0.14180 13.291 0.00000
+intercept class10    0.06476 0.07096  0.913 0.36143
+career_year class1  -0.00906 0.00982 -0.923 0.35608
+career_year class2  -0.02321 0.01574 -1.474 0.14038
+career_year class3   0.42168 0.02053 20.537 0.00000
+career_year class4   0.01890 0.00348  5.439 0.00000
+career_year class5   0.02001 0.00794  2.519 0.01176
+career_year class6   0.03962 0.00473  8.385 0.00000
+career_year class7   0.00145 0.01669  0.087 0.93100
+career_year class8   0.13158 0.00714 18.429 0.00000
+career_year class9  -0.00490 0.00949 -0.516 0.60595
+career_year class10  0.00233 0.00517  0.450 0.65245
+
+
+Class descriptives:
+# A tibble: 10 × 7
+   class_assignment n_faculty pct_of_sample mean_career_length mean_pub_per_year
+              <int>     <int>         <dbl>              <dbl>             <dbl>
+ 1                1         7           6.1               16                2.32
+ 2                2         5           4.4               10.2             16.1 
+ 3                3         2           1.8               14.5             13.4 
+ 4                4        49          43                 13.2              5.51
+ 5                5         7           6.1               20.7              0.76
+ 6                6        12          10.5               17.4              2.34
+ 7                7         3           2.6               15.3             10.9 
+ 8                8         2           1.8               35.5              7.07
+ 9                9         6           5.3               20.8              3.9 
+10               10        21          18.4               16.2              0.08
+# ℹ 2 more variables: pct_ever_promoted <dbl>, pct_never_asst <dbl>

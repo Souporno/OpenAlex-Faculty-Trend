@@ -1,0 +1,11 @@
+"parameter","coef","Se","wald_z","p_value","sig","count_scale_approx"
+"intercept class1",1.95484,0.00312,625.986,0,"***",3.82
+"intercept class2",1.1167,0.00385,290.289,0,"***",1.25
+"intercept class3",0.12572,0,Inf,0,"***",0.02
+"intercept class4",3.72026,0.00024,15254.621,0,"***",13.84
+"intercept class5",-0.92052,0.06639,-13.864,0,"***",0
+"career_year class1",0.03274,0,Inf,0,"***",NA
+"career_year class2",0.03073,0.01837,1.672,0.09446,".",NA
+"career_year class3",0.00773,0,Inf,0,"***",NA
+"career_year class4",-0.01802,4e-04,-44.92,0,"***",NA
+"career_year class5",0.42326,0.00061,693.26,0,"***",NA

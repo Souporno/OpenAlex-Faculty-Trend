@@ -1,0 +1,27 @@
+B=250 Stability Check — Class Assignment Changes
+2026-06-10 09:38
+=======================================================
+
+NOTE: Compared against lcga_4class_assignments.csv (B=50 4-class solution).
+
+Cross-tabulation of B=50 vs B=250 class labels:
+class_b250   1   2  3   4
+class_b50                
+1            0   0  0  28
+2            0  55  0   0
+3            0   0  6   0
+4           25   0  0   0
+
+Label mapping (B=50 → B=250):
+  B50 Class 1  →  B250 Class 4
+  B50 Class 2  →  B250 Class 2
+  B50 Class 3  →  B250 Class 3
+  B50 Class 4  →  B250 Class 1
+
+Faculty with different numeric label (before alignment): 53
+  Of which pure label switching:                53
+  Genuine assignment changes after alignment:  0 of 114
+
+>> STABLE: Zero genuine assignment changes after label alignment.
+   All apparent differences were pure class-label switching.
+   Existing descriptives and plots remain valid.
