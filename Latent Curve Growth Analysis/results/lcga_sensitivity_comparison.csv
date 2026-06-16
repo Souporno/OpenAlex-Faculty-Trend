@@ -1,0 +1,5 @@
+"spec","label","outcome","poly","BIC","AIC","entropy","ave_pp","small_class","delta_BIC_vs_main","note"
+"main","sqrt(pub), Linear [MAIN]","sqrt","linear",4523.2,4490.4,0.888,0.937,"None",0,"Primary model"
+"sqrtquad","sqrt(pub), Quadratic","sqrt","quadratic",4516.2,4472.5,0.9055,0.9556,"None",-7,"Most important check"
+"rawlin","Raw pub, Linear","raw","linear",9994.5,9961.7,0.8979,0.9684,"Class 2 (n=1)",5471.3,"Secondary check"
+"rawquad","Raw pub, Quadratic","raw","quadratic",9792.8,9749.1,0.9032,0.9732,"Class 2 (n=1)",5269.6,"Secondary check"

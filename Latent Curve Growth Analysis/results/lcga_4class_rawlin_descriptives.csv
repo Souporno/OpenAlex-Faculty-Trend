@@ -1,0 +1,5 @@
+"class_assignment","n_faculty","pct_of_sample","meets_5pct","mean_career_length","sd_career_length","mean_pub_per_year","sd_pub_per_year","median_pub_per_year","pct_ever_promoted","pct_multi_promoted"
+1,7,6.1,TRUE,10.4,7.8,14.77,3.14,14.83,57.1,28.6
+2,1,0.9,FALSE,23,NA,25.65,NA,25.65,100,100
+3,49,43,TRUE,17.1,11.5,1.14,1.27,0.75,67.3,40.8
+4,57,50,TRUE,14.8,10.4,5.51,1.55,5.46,64.9,47.4

@@ -1,0 +1,115 @@
+"faculty_id","class_assignment","posterior_class_1","posterior_class_2","faculty_name","university","career_start_year","never_asst_prof","career_length","n_promotions","mean_pub_count"
+1,1,0.999995942080486,4.05791951394456e-06,"Bo Zhang","University of Illinois Urbana-Champaign",2020,0,6,1,14.8333333333333
+116,1,1,7.87086107466829e-263,"Cong Liu","Rutgers University",2003,0,23,2,25.6521739130435
+16,1,0.988304013172788,0.0116959868272121,"Ian Hughes","Texas A&M University",2023,0,3,0,13.3333333333333
+35,1,1,4.1147929124481e-23,"Louis Tay","Purdue University",2013,0,13,2,17.8461538461538
+43,1,0.991375541085669,0.00862445891433108,"TianJun Sun","Rice University",2021,0,5,0,12.2
+23,1,0.999999996000273,3.99972697950638e-09,"Xiaowen Chen","Saint Louis University",2021,0,5,0,19.6
+111,2,2.03939746753786e-59,1,"Adrienne Carter-Sowell","University of Oklahoma",2010,0,16,2,0.0625
+55,2,3.87523131631074e-12,0.999999999996125,"Afra Saeed Ahmad","George Mason University",2016,0,10,1,2.1
+32,2,2.02293741583755e-07,0.999999797706258,"Alexandra Harris-Watson","Purdue University",2022,0,4,0,0
+64,2,0,1,"Alicia Grandey","Pennsylvania State University",1999,0,27,2,5.18518518518519
+100,2,7.39919249795494e-108,1,"Alyssa Gibbons","Colorado State University",2007,0,15,1,2
+74,2,2.40140441792977e-26,1,"Alyssa McGonagle","University of North Carolina at Charlotte",2011,0,15,1,4.4
+105,2,0.00377888377359244,0.996221116226408,"Andrea Bazzoli","CUNY Graduate Center",2023,0,3,0,6.33333333333333
+3,2,0,1,"Anita Blanchard","University of North Carolina at Charlotte",1999,0,27,2,2.96296296296296
+108,2,1.66141401519114e-06,0.999998338585985,"Anna Gödöllei","CUNY Graduate Center",2022,0,4,0,1.25
+79,2,7.4769523819006e-16,0.999999999999999,"Asia A. Eaton","Florida International University",2012,0,14,2,6
+69,2,0,1,"Barbara Fritzsche","University of Central Florida",1996,0,30,1,0.333333333333333
+19,2,5.91017980318044e-99,1,"Bradley Brummel","University of Houston",2008,1,18,1,0.0555555555555555
+73,2,8.07617912820354e-19,1,"Brent Reed","University of North Carolina at Charlotte",2013,0,10,1,0.1
+34,2,1.1793930013749e-06,0.999998820606999,"Brooke N. Macnamara","Purdue University",2014,0,12,1,7.5
+95,2,7.38179526384567e-154,1,"Bryan Dik","Colorado State University",2005,0,21,2,7.0952380952381
+67,2,1.48169769356566e-37,1,"C. Shawn Burke","University of Central Florida",2011,1,15,1,2.66666666666667
+91,2,8.7255452052572e-07,0.99999912744548,"Charles Calderwood","Virginia Tech",2017,0,9,1,4.44444444444444
+109,2,0,1,"Charles Scherbaum","CUNY Graduate Center",2003,0,23,2,3.60869565217391
+70,2,5.94315091322247e-06,0.999994056849087,"Chelsea LeNoble","University of Central Florida",2019,0,7,0,3.85714285714286
+13,2,1.1973565376996e-11,0.999999999988026,"Chris Wiese","Georgia institute of technology",2018,0,8,1,0
+10,2,3.89564571303677e-46,1,"Christopher Nye","Michigan State University",2011,0,15,1,0.0666666666666667
+7,2,2.29086245155891e-143,1,"Chu-Hsiang (Daisy) Chang","Michigan State University",2005,0,21,2,7.14285714285714
+119,2,0,1,"Cindy Pury","Clemson University",1997,0,29,2,0.0344827586206897
+101,2,4.05832566365698e-13,0.999999999999594,"Clair Reynolds Kueny","Missouri University of Science & Technology",2015,0,11,1,2.81818181818182
+30,2,0.00478163880406274,0.995218361195937,"Claire E. Smith","University of South Florida",2023,0,3,0,6
+48,2,5.63917673948547e-149,1,"Daniel A Newman","University of Illinois Urbana-Champaign",2005,0,21,2,6.57142857142857
+27,2,9.15633135791967e-05,0.999908436686421,"Daniel Griffin","University of South Florida",2023,0,3,0,3
+97,2,2.46777414448116e-08,0.999999975322259,"Danielle Gardner","Colorado State University",2021,0,5,0,0
+40,2,2.15358044047862e-05,0.999978464195595,"Danielle King","Rice University",2018,0,8,1,5.125
+60,2,1.28179465232069e-277,1,"Deborah E. Rupp","George Mason University",2002,0,24,2,9.91666666666667
+22,2,0.000521540119481029,0.999478459880519,"Denise Reyes","University of Houston",2021,0,5,0,5.2
+83,2,7.63635803673697e-36,1,"Dev Dalal","University at Albany, SUNY",2012,0,14,1,0.142857142857143
+106,2,1.59594372529992e-05,0.999984040562747,"Dia Chatterjee","CUNY Graduate Center",2022,0,4,0,2.75
+80,2,2.0707838033315e-07,0.99999979292162,"Don Zhang","Louisiana State University",2016,0,10,1,4.8
+39,2,2.21802392237163e-158,1,"Eden King","Rice University",2006,0,20,2,0.75
+112,2,0,1,"Eric Day","University of Oklahoma",1998,0,27,2,0.851851851851852
+33,2,0.0167346466116261,0.983265353388374,"Franki Y. H. Kung","Purdue University",2018,0,8,1,6.875
+41,2,0,1,"Fred Oswald","Rice University",1998,0,28,2,0.392857142857143
+45,2,0,1,"Fritz Drasgow","University of Illinois Urbana-Champaign",1982,0,40,2,7.325
+88,2,4.34900903559032e-05,0.999956509909644,"Gargi Sawhney","Auburn University",2019,0,7,1,4.71428571428571
+124,2,0,1,"Gelaye Debebe","George Washington University",2003,0,23,1,1.39130434782609
+99,2,1.06272235488587e-26,1,"Gwen Fisher","Colorado State University",2013,0,13,2,0.692307692307692
+82,2,0.00294193618779536,0.997058063812205,"Haley Cobb","Louisiana State University",2023,0,3,0,6
+47,2,1.26185681611827e-05,0.999987381431839,"Hanyi Haylee Min","University of Illinois Urbana-Champaign",2018,0,8,0,4.75
+20,2,8.96419597168203e-09,0.999999991035804,"Isaac Sabat","University of Houston",2016,0,10,1,4
+62,2,0,1,"James LeBreton","Pennsylvania State University",2002,0,24,2,5.875
+49,2,0,1,"James Rounds","University of Illinois Urbana-Champaign",1982,0,44,2,4.20454545454546
+52,2,7.16215621425268e-05,0.999928378437858,"Jeffrey Olenick","University of Georgia",2020,0,6,0,4.66666666666667
+118,2,0.00435230122317345,0.995647698776826,"Jenna Van Fossen","Clemson University",2023,0,3,0,6
+114,2,0,1,"Jennifer Kisamore","University of Oklahoma",2003,0,23,2,0.0434782608695652
+87,2,1.09595490103819e-223,1,"Jinyan Fan","Auburn University",2004,0,22,2,4.04545454545455
+89,2,3.18787669196473e-06,0.999996812123308,"John Schmidt","Auburn University",2023,0,3,0,0.333333333333333
+98,2,7.84242901718653e-07,0.999999215757098,"Josh Prasad","Colorado State University",2019,0,7,0,3.28571428571429
+21,2,0.00142318365506497,0.998576816344935,"Kaylee Litson","University of Houston",2023,0,3,0,5
+96,2,0.000180680136797902,0.999819319863202,"Keaton Fletcher","Colorado State University",2019,0,7,0,5.28571428571429
+8,2,0,1,"Kevin Ford","Michigan State University",1983,0,43,2,10.2093023255814
+9,2,6.92150587302615e-05,0.99993078494127,"Kevin Hoff","Michigan State University",2019,0,7,0,5
+85,2,0,1,"Kevin Williams","University at Albany, SUNY",1984,0,42,2,6.69047619047619
+4,2,1.1973565376996e-11,0.999999999988026,"Kimberly French","Colorado State University",2018,0,8,1,0
+110,2,0,1,"Kristin Sommer","CUNY Graduate Center",1998,0,28,2,0.142857142857143
+58,2,1.64528951201801e-12,0.999999999998355,"Lauren E. Kuykendall","George Mason University",2015,0,11,1,3.27272727272727
+44,2,6.20463228185286e-07,0.999999379536772,"Leo Alexander III","University of Illinois Urbana-Champaign",2022,0,4,0,0.75
+78,2,1.9278877803525e-06,0.99999807211222,"Lorena Solis","University of Connecitcut",2023,0,3,0,0
+92,2,0.0203280979777522,0.979671902022248,"Louis Hickman","Virginia Tech",2022,0,4,0,7.25
+46,2,0,1,"Louise Fitzgerald","University of Illinois Urbana-Champaign",1982,0,27,2,4.07407407407407
+50,2,1.14341899952202e-36,1,"Malissa Clark","University of Georgia",2010,0,16,2,5.6875
+37,2,1.2974517374738e-196,1,"Margaret Beier","Rice University",2004,0,22,2,5.81818181818182
+121,2,6.50553759848057e-16,0.999999999999999,"Marissa Shuffler","Clemson University",2013,0,13,2,5.46153846153846
+68,2,0,1,"Mark Ehrhart","University of Central Florida",2001,0,25,2,0.08
+54,2,8.66654637004043e-08,0.999999913334536,"Melissa Robertson","University of Georgia",2020,0,6,0,1.5
+26,2,3.09321360088521e-76,1,"Michael Gillespie","University of South Florida",2009,0,17,1,0.176470588235294
+38,2,0,1,"Mikki Hebl","Rice University",1998,0,28,2,3.92857142857143
+15,2,0,1,"Mindy Bergman","Texas A&M University",2001,0,25,2,4.4
+71,2,2.54858564708119e-46,1,"Mindy Shoss","University of Central Florida",2011,0,15,2,0
+2,2,1.23538869499284e-152,1,"Nathan Bowling","University of Central Florida",2005,0,21,2,7.52380952380952
+6,2,1.26054567583567e-31,1,"Nathan T. Carter","Michigan State University",2010,0,16,2,6.75
+53,2,2.03627506171806e-09,0.999999997963725,"Neal Outland","University of Georgia",2019,0,7,0,0.857142857142857
+125,2,4.58365140014569e-236,1,"Nils Olsen","George Washington University",2002,0,24,1,15
+93,2,9.33450057516516e-07,0.999999066549942,"Ning Hsu","Virginia Tech",2022,0,4,0,1
+90,2,0.000632117022675273,0.999367882977325,"Paige Watson","Auburn University",2023,0,3,0,4.66666666666667
+120,2,7.18061244405751e-82,1,"Patrick Rosopa","Clemson University",2007,0,19,2,5.05263157894737
+115,2,5.85671810212464e-07,0.99999941432819,"Preston Lindsay","Rutgers University",2022,0,4,0,0.75
+11,2,0,1,"Quinetta Roberson","Michigan State University",1999,0,27,2,3
+42,2,2.46777414448116e-08,0.999999975322259,"Rebecca Brossoit","Rice University",2021,0,5,0,0
+56,2,2.21174400149908e-269,1,"Reeshad S. Dalal","George Mason University",2003,0,23,2,5.52173913043478
+24,2,0,1,"Richard D. Harvey","Saint Louis University",1995,1,31,0,2.19354838709677
+5,2,1.61636656999629e-22,1,"Richard Landers","University of Minnesota",2009,0,17,2,10.5882352941176
+122,2,0,1,"Robert R. Sinclair","Clemson University",2000,0,26,2,6.76923076923077
+36,2,7.75585229274799e-29,1,"Sang Eun Woo","Purdue University",2010,0,16,2,6.1875
+61,2,2.5612157801048e-07,0.999999743878422,"Sarah Wittman","George Mason University",2018,0,8,0,3.5
+57,2,4.35311255434582e-121,1,"Seth Kaplan","George Mason University",2006,0,20,2,5.6
+113,2,0,1,"Shane Connelly","University of Oklahoma",2001,0,25,2,7.52
+72,2,1.19230436745683e-08,0.999999988076956,"Shiyang Su","University of Central Florida",2018,0,8,0,2.375
+17,2,0,1,"Stephanie C. Payne","Texas A&M University",2000,0,26,2,6.23076923076923
+31,2,0,1,"Stephen Stark","University of South Florida",2002,0,24,2,5.16666666666667
+29,2,0,1,"Steve W. J. Kozlowski","University of South Florida",1982,0,44,2,4.18181818181818
+84,2,0,1,"Sylvia Roch","University at Albany, SUNY",1997,0,29,2,2.6551724137931
+25,2,0,1,"Tammy Allen","University of South Florida",1996,0,30,2,0.5
+126,2,8.12167793586747e-06,0.999991878322064,"Tiffany Bisbey","George Washington University",2022,0,4,0,2.25
+103,2,2.65009718909188e-08,0.999999973499028,"Vahe Permzadian","Missouri University of Science & Technology",2020,0,6,0,1.16666666666667
+81,2,1.80534778008726e-06,0.99999819465222,"Vanessa Burke","Louisiana State University",2022,0,4,0,1.5
+77,2,0,1,"Vicki Magley","University of Connecitcut",1997,0,29,2,3.68965517241379
+14,2,0,1,"Winfred Arthur, Jr.","Texas A&M University",1987,0,39,2,0.0512820512820513
+59,2,1.770835547516e-05,0.999982291644525,"Yijue Liang","George Mason University",2022,0,4,0,3
+51,2,0.0122485573411335,0.987751442658866,"Yimin He","University of Georgia",2023,0,3,0,6.66666666666667
+123,2,4.10321707645235e-05,0.999958967829236,"Yisheng Peng","George Washington University",2017,0,9,1,5.55555555555556
+107,2,0,1,"Yochi Cohen-Charash","CUNY Graduate Center",2001,0,25,2,0.04
+18,2,1.7984629619704e-05,0.99998201537038,"Ze (Mia) Zhu","Texas A&M University",2021,0,5,0,3.6

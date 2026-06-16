@@ -1,0 +1,7 @@
+"parameter","coef","Se","wald_z","p_value","sig"
+"intercept class1",16.13496,0,Inf,0,"***"
+"intercept class2",3.19485,0,Inf,0,"***"
+"career_year class1",-2.34724,0,-Inf,0,"***"
+"career_year class2",0.01475,0.00018,81.983,0,"***"
+"I(career_year^2) class1",0.22698,0.00496,45.73,0,"***"
+"I(career_year^2) class2",0.00248,0,Inf,0,"***"
