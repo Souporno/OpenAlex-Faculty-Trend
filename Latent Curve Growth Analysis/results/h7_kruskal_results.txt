@@ -1,0 +1,35 @@
+H7: Kruskal-Wallis Test — Years to Promotion by LCGA Trajectory Class
+2026-06-10 02:59 
+============================================================
+
+Analytic sample (promoted faculty only): N = 73
+
+Class order (ascending output level):
+  1 = Very low-output
+  2 = Low-to-moderate rising
+  3 = Moderate-to-high rising
+  4 = Small high-growth
+
+Descriptives by class (promoted faculty):
+        trajectory_label class_assignment n_promoted mean_yrs_to_promo median_yrs_to_promo
+         Very low-output                1         21               7.6                   7
+  Low-to-moderate rising                4         14               8.1                   7
+ Moderate-to-high rising                2         35               7.6                   7
+       Small high-growth                3          3               6.7                   6
+ sd_yrs_to_promo iqr_yrs_to_promo
+            1.83              3.0
+            3.48              3.8
+            2.06              1.0
+            1.15              1.0
+
+Kruskal-Wallis H(3) = 0.908, p = 0.8234
+Epsilon-squared = 0.0000
+
+Pairwise Wilcoxon (BH-adjusted):
+                  group1                  group2  p_adj_BH significant
+  Low-to-moderate rising         Very low-output 0.9592329       FALSE
+ Moderate-to-high rising         Very low-output 0.9592329       FALSE
+       Small high-growth         Very low-output 0.9592329       FALSE
+ Moderate-to-high rising  Low-to-moderate rising 0.9592329       FALSE
+       Small high-growth  Low-to-moderate rising 0.9592329       FALSE
+       Small high-growth Moderate-to-high rising 0.9592329       FALSE

@@ -1,0 +1,57 @@
+H7 Results Summary
+2026-06-10 02:59 
+=================================================================
+
+HYPOTHESIS
+H7: Faculty in higher-growth or higher-output LCGA trajectory classes
+    reach promotion sooner than faculty in lower-output classes.
+
+ANALYTIC SAMPLE
+  Total eligible faculty : 111
+  Excluded (never Asst Prof): 3
+  Ever promoted          : 73 (65.8%)
+  Promoted-only N (KW)   : 73
+
+CLASS-LEVEL PROMOTION SUMMARY
+  Very low-output (orig. Class 1, n=27): 77.8% promoted; mean years to promo = 7.6 (SD=1.83, Mdn=7.0)
+  Low-to-moderate rising (orig. Class 4, n=23): 60.9% promoted; mean years to promo = 8.1 (SD=3.48, Mdn=7.0)
+  Moderate-to-high rising (orig. Class 2, n=55): 63.6% promoted; mean years to promo = 7.6 (SD=2.06, Mdn=7.0)
+  Small high-growth (orig. Class 3, n=6): 50.0% promoted; mean years to promo = 6.7 (SD=1.15, Mdn=6.0)
+
+FLAG: The Very low-output class has a higher promotion rate than the sample
+      average. This is counter to the simple H7 expectation that
+      higher-output classes should promote at higher rates.
+
+KRUSKAL-WALLIS TEST (promoted faculty only)
+  H(3) = 0.908, p = 0.8234
+  Epsilon-squared = 0.0000
+  Result: NOT SIGNIFICANT — no detectable difference in promotion timing.
+
+PAIRWISE WILCOXON TESTS (BH-adjusted, promoted faculty only)
+  No pairwise comparisons significant after BH correction.
+
+COX PROPORTIONAL HAZARDS MODEL (all eligible faculty)
+  Reference class: Very low-output (original Class 1)
+  trajectory_factorLow-to-moderate rising: HR = 0.6501, 95% CI [0.3236, 1.3063], p = 0.2265
+  trajectory_factorModerate-to-high rising: HR = 0.9433, 95% CI [0.5466, 1.6279], p = 0.8340
+  trajectory_factorSmall high-growth: HR = 1.9127, 95% CI [0.5604, 6.5288], p = 0.3005 
+
+LOG-RANK TEST
+  Chi-sq = 3.024, df = 3, p = 0.3880
+  Result: NOT SIGNIFICANT.
+
+PH ASSUMPTION (cox.zph)
+  trajectory_factor: rho = -8.142, chi-sq = 1.841, p = 0.6061
+  GLOBAL: rho = -0.107, chi-sq = 1.841, p = 0.6061
+
+INTERPRETATION
+  Neither the Kruskal-Wallis test nor the log-rank test is significant.
+  H7 is NOT SUPPORTED: no reliable evidence that higher-output trajectory
+  classes reach promotion sooner.
+
+The Spearman correlation between trajectory rank and mean years to promotion is negative, indicating that higher-output classes tend to promote sooner, consistent with H7. 
+
+  NOTE: The Very low-output class has a higher promotion rate than the
+  sample average. This is counter to the simple H7 expectation and
+  warrants discussion in the manuscript.
+

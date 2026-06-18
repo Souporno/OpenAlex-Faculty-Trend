@@ -1,0 +1,4 @@
+"term","hazard_ratio","std.error","statistic","p.value","HR_low95","HR_high95"
+"trajectory_factorLow-to-moderate rising",0.6501,0.356,-1.2095,0.2265,0.3236,1.3063
+"trajectory_factorModerate-to-high rising",0.9433,0.2784,-0.2096,0.834,0.5466,1.6279
+"trajectory_factorSmall high-growth",1.9127,0.6264,1.0354,0.3005,0.5604,6.5288

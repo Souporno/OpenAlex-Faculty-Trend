@@ -1,0 +1,50 @@
+H7: Survival Analysis Diagnostics
+2026-06-10 02:59 
+============================================================
+
+N total = 111  |  promoted = 73  |  censored = 38
+
+Reference class: Very low-output (original Class 1)
+
+--- Cox PH Model ---
+Call:
+coxph(formula = Surv(time_to_event, event_promoted) ~ trajectory_factor, 
+    data = h7_data)
+
+  n= 111, number of events= 73 
+
+                                             coef exp(coef) se(coef)      z Pr(>|z|)
+trajectory_factorLow-to-moderate rising  -0.43057   0.65014  0.35600 -1.209    0.226
+trajectory_factorModerate-to-high rising -0.05834   0.94333  0.27840 -0.210    0.834
+trajectory_factorSmall high-growth        0.64854   1.91275  0.62638  1.035    0.300
+
+                                         exp(coef) exp(-coef) lower .95 upper .95
+trajectory_factorLow-to-moderate rising     0.6501     1.5381    0.3236     1.306
+trajectory_factorModerate-to-high rising    0.9433     1.0601    0.5466     1.628
+trajectory_factorSmall high-growth          1.9127     0.5228    0.5604     6.529
+
+Concordance= 0.534  (se = 0.047 )
+Likelihood ratio test= 3.06  on 3 df,   p=0.4
+Wald test            = 3.2  on 3 df,   p=0.4
+Score (logrank) test = 3.31  on 3 df,   p=0.3
+
+
+--- Log-rank test ---
+Call:
+survdiff(formula = Surv(time_to_event, event_promoted) ~ trajectory_factor, 
+    data = h7_data)
+
+                                           N Observed Expected (O-E)^2/E (O-E)^2/V
+trajectory_factor=Very low-output         27       21    19.13   0.18237    0.3614
+trajectory_factor=Low-to-moderate rising  23       14    17.75   0.79361    1.6234
+trajectory_factor=Moderate-to-high rising 55       35    34.48   0.00779    0.0217
+trajectory_factor=Small high-growth        6        3     1.63   1.14544    1.5122
+
+ Chisq= 3  on 3 degrees of freedom, p= 0.4 
+
+--- Proportional hazards assumption (cox.zph) ---
+                  chisq df    p
+trajectory_factor  1.84  3 0.61
+GLOBAL             1.84  3 0.61
+
+Interpretation: p > .05 for each term indicates PH assumption is not violated.

@@ -1,0 +1,5 @@
+"trajectory_ordered","trajectory_label","class_assignment","n_faculty","n_promoted","pct_promoted","mean_career_length","mean_pub_per_year","mean_yrs_to_promo","median_yrs_to_promo","sd_yrs_to_promo","iqr_yrs_to_promo"
+"Very low-output","Very low-output",1,27,21,77.8,17.4,0.26,7.6,7,1.83,3
+"Low-to-moderate rising","Low-to-moderate rising",4,23,14,60.9,17.4,2.59,8.1,7,3.48,3.8
+"Moderate-to-high rising","Moderate-to-high rising",2,55,35,63.6,14.4,5.89,7.6,7,2.06,1
+"Small high-growth","Small high-growth",3,6,3,50,9.2,17.24,6.7,6,1.15,1

@@ -50,11 +50,22 @@ quadratic term was non-significant for 96% of the sample, and only 3 classes wer
 viable under the 5% minimum class-size threshold — this closes the case on
 raw-quadratic as a serious alternative to the retained sqrt-linear model.
 
+## Promotion timing
+
+A follow-up analysis examined whether the four publication trajectory classes
+differ in how quickly faculty are promoted to Associate Professor. Promotion
+timing was compared across classes using non-parametric tests (Kruskal-Wallis,
+pairwise Wilcoxon) and a Cox proportional hazards model on time to promotion.
+
+**Finding:** No statistically significant differences in promotion timing were
+found across the four trajectory classes. Promotion rates and mean years to
+promotion were broadly similar across classes, with one notable exception: the
+class with the lowest overall publication output had the highest promotion
+rate of any class, the opposite of what a simple output-based expectation
+would predict. This pattern is discussed further in the accompanying paper.
+
 ## Data note
 
 `lcga_data_long.csv` (faculty-year panel) is excluded from this repository.
-
-## Not yet included
-
-H7 promotion-timing analysis (`run_h7_promotion_timing.R` and outputs) will be
-added in a subsequent push.
+Full results, diagnostics, and plots for all analyses are in `results/` and
+`plots/`.
