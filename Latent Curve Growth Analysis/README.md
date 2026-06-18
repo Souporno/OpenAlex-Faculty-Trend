@@ -9,6 +9,7 @@ using `lcmm::hlme` in R.
 scripts/   R and Python scripts (in pipeline order)
 results/   Model fit statistics, class assignments, descriptives
 plots/     BIC curve, trajectory plots (PDF + PNG)
+logs/      Full console output log from all model runs
 ```
 
 ## Pipeline order
