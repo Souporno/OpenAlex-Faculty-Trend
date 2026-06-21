@@ -1,26 +1,33 @@
-# Latent Growth Curve Analysis (LGCA)
+# Latent Class Growth Analysis (LCGA)
 
 Publication trajectory modeling for I/O psychology faculty at R1 universities
 using `lcmm::hlme` in R.
 
-## What is LGCA, and why use it here?
+## What is LCGA, and why use it here?
 
-Latent Growth Curve Analysis (LGCA) is a longitudinal modeling technique that
+Latent Class Growth Analysis (LCGA) is a longitudinal modeling technique that
 identifies unobserved (latent) subgroups of individuals who follow distinct
 trajectories over time, rather than assuming every individual follows the
 same average growth pattern. Each subgroup, or "class," has its own
 estimated growth parameters (e.g., starting level and rate of change), and
-individuals are probabilistically assigned to the class their observed data
-best matches.
+within a class every individual is assumed to share that class's trajectory,
+aside from residual noise. Individuals are probabilistically assigned to the
+class their observed data best matches.
 
 This approach was used here because faculty publication output over a
 career is unlikely to follow one universal trajectory. Some faculty publish
 steadily, some show early bursts followed by plateaus, and some show
-accelerating growth. LGCA allows these qualitatively different patterns to
+accelerating growth. LCGA allows these qualitatively different patterns to
 emerge directly from the data (career-year publication counts) instead of
 imposing a single growth curve on the whole sample, making it well suited
 for testing whether distinct trajectory classes exist and whether they
 relate to other outcomes, such as promotion timing.
+
+Before fitting multiple classes, a single-trajectory latent growth curve
+(LGC) model — the one-class special case, with no subgroups — was fit first
+to determine whether a linear or quadratic growth function better described
+the data. That functional form was then carried into the full class
+enumeration.
 
 ## Folder structure
 
@@ -36,7 +43,7 @@ logs/      Full console output log from all model runs
 1. `scripts/fetch_openalex_pubs.py`  — pull raw publication counts from OpenAlex API
 2. `scripts/patch_unresolved.py`     — resolve ambiguous author matches
 3. `scripts/prepare_lcga_data.py`    — build career-year panel (lcga_data_long.csv)
-4. `scripts/run_lcga.R`              — enumerate 1–11 class LGCA solutions (sqrt linear)
+4. `scripts/run_lcga.R`              — enumerate 1–11 class LCGA solutions (sqrt linear)
 5. `scripts/compare_lcga_solutions.R`— compare 4-, 5-, 6-class solutions; produce plots
 6. `scripts/rerun_lcga_b250.R`       — B=250 random-start stability check on 4-class solution
 7. `scripts/sensitivity_lcga.R`      — sensitivity checks: sqrt-quadratic, raw-linear, raw-quadratic (4-class)
@@ -44,7 +51,7 @@ logs/      Full console output log from all model runs
 
 ## Retained solution
 
-**4-class sqrt-linear LGCA** (BIC = 4523.2, entropy = 0.888, AvePP = 0.937)
+**4-class sqrt-linear LCGA** (BIC = 4523.2, entropy = 0.888, AvePP = 0.937)
 
 | Class (substantive order) | n  | Label                   |
 |---------------------------|----|-------------------------|
